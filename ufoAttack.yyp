@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -43,7 +44,7 @@
     "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
-  "name": "test",
+  "name": "ufoAttack",
   "tags": [],
   "resourceType": "GMProject",
 }
