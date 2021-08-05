@@ -9,6 +9,7 @@
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
