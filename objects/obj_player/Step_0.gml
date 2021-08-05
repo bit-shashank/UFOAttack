@@ -1,4 +1,4 @@
-   //rando, rockets
+    //rando, rockets
 
 if(random(1)<=0.010){
 	var width=display_get_gui_width();
@@ -16,4 +16,5 @@ if keyboard_check(vk_right){
 }  
 
 direction=image_angle;
-speed=10;
+		 
+speed=7;

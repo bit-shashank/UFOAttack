@@ -1,9 +1,13 @@
-    /// @description Insert description here
+/// @description Insert description here
 // You can write your code in this editor
-x += (xTo - x)/1;
-y += (yTo - y)/1;
 
-if(follow != noone){
+var xsmoothness = 10;
+var ysmoothness = 10;
+
+x += (xTo - x)/xsmoothness;
+y += (yTo - y)/ysmoothness;
+
+if(instance_exists(follow)){
 	xTo = follow.x;
 	yTo = follow.y;
 }
