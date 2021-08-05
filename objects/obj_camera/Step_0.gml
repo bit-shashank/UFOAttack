@@ -7,7 +7,7 @@ var ysmoothness = 10;
 x += (xTo - x)/xsmoothness;
 y += (yTo - y)/ysmoothness;
 
-if(follow != noone){
+if(instance_exists(follow)){
 	xTo = follow.x;
 	yTo = follow.y;
 }

@@ -6,8 +6,14 @@ var acceleration = 0.1;
 
 speed=min(speed+acceleration,maxSpeed);
 
-var pointDir=point_direction(x,y,target.x,target.y);
 
+if (instance_exists(target)){
+
+var pointDir=point_direction(x,y,target.x,target.y);
 image_angle+=sin(degtorad(pointDir-image_angle))*turnRadius;
 
-direction=image_angle;  
+direction=image_angle; 
+}
+
+
+ 
