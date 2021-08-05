@@ -3,7 +3,7 @@
 if(random(1)<=0.010){
 	var width=display_get_gui_width();
 	var height=display_get_gui_height();
-	var rocket=instance_create_layer(random(width),random(height),"Instances_1",obj_rocket);
+	var rocket=instance_create_layer(random(width),random(height),"Instances",obj_rocket);
 	rocket.target=id;
 }
 
