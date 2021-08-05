@@ -8,7 +8,7 @@ x += (xTo - x)/xsmoothness;
 y += (yTo - y)/ysmoothness;
 
 if(instance_exists(follow)){
-	xTo = follow.x;
+	xTo = follow.x; 
 	yTo = follow.y;
 }
 var vm =  matrix_build_lookat(x, y, -10, x, y, 0, 0, 1, 0);
