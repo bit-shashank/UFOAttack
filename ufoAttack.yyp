@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":3,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},"order":2,},
