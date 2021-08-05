@@ -3,6 +3,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},"order":2,},
+    {"id":{"name":"spr_asteroid","path":"sprites/spr_asteroid/spr_asteroid.yy",},"order":2,},
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},"order":1,},
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},"order":1,},
   ],
