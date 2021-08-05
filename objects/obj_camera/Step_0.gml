@@ -1,7 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
-x += (xTo - x)/25;
-y += (yTo - y)/25;
+
+var xsmoothness = 10;
+var ysmoothness = 10;
+
+x += (xTo - x)/xsmoothness;
+y += (yTo - y)/ysmoothness;
 
 if(follow != noone){
 	xTo = follow.x;

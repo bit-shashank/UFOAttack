@@ -16,4 +16,5 @@ if keyboard_check(vk_right){
 }  
 
 direction=image_angle;
-speed=4;
+
+speed=7;
