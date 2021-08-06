@@ -1,5 +1,5 @@
-var turnRadius = 3;
-var maxSpeed = 5;
+var turnRadius = 2;
+var maxSpeed = 7;
 var acceleration = 0.1;
 speed=min(speed+acceleration,maxSpeed);
 
