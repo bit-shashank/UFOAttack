@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="spaceship.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4333"
+       inkscape:collect="always">
+      <stop
+         id="stop4335"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4337"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4045">
+      <stop
+         style="stop-color:#00aad4;stop-opacity:1"
+         offset="0"
+         id="stop4047" />
+      <stop
+         style="stop-color:#2c5aa0;stop-opacity:0;"
+         offset="1"
+         id="stop4049" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3752">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop3754" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3756" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3705">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0"
+         id="stop3707" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1"
+         offset="1"
+         id="stop3709" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3576"
+       inkscape:collect="always">
+      <stop
+         id="stop3578"
+         offset="0"
+         style="stop-color:#ffcc00;stop-opacity:1" />
+      <stop
+         id="stop3580"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3548">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3550" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop3552" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3474"
+       inkscape:collect="always">
+      <stop
+         id="stop3476"
+         offset="0"
+         style="stop-color:#ffcc00;stop-opacity:1" />
+      <stop
+         id="stop3478"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3462">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3464" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3466" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3321"
+       inkscape:collect="always">
+      <stop
+         id="stop3323"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop3325"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3307">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop3309" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:0;"
+         offset="1"
+         id="stop3311" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3273"
+       inkscape:collect="always">
+      <stop
+         id="stop3275"
+         offset="0"
+         style="stop-color:#d5e5ff;stop-opacity:1" />
+      <stop
+         id="stop3277"
+         offset="1"
+         style="stop-color:#d5e5ff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3267">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop3269" />
+      <stop
+         style="stop-color:#aa0000;stop-opacity:0;"
+         offset="1"
+         id="stop3271" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3209">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3211" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop3213" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3145">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop3147" />
+      <stop
+         style="stop-color:#aa0000;stop-opacity:0;"
+         offset="1"
+         id="stop3149" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3267"
+       id="linearGradient3151"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.4997801,-372.18358,-198.85487)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3474"
+       id="linearGradient3187"
+       x1="301.42856"
+       y1="367.89789"
+       x2="301.25"
+       y2="393.4426"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.4997801,-373.13045,-198.85487)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3209"
+       id="linearGradient3215"
+       x1="301.42856"
+       y1="372.54074"
+       x2="302.03"
+       y2="394.07224"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7913583,0,0,1.7913583,-461.51473,-312.5711)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3145"
+       id="linearGradient3227"
+       gradientUnits="userSpaceOnUse"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084"
+       gradientTransform="matrix(-1.4997801,0,0,1.4997801,527.62355,-198.85487)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3273"
+       id="linearGradient3295"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8028026,0,0,0.8028026,95.210433,72.0672)"
+       x1="255.71428"
+       y1="352.45148"
+       x2="255.625"
+       y2="397.49237" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3307"
+       id="linearGradient3313"
+       x1="300.71429"
+       y1="289.86218"
+       x2="299.82144"
+       y2="319.32648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.4997801,-372.18358,-198.85487)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3321"
+       id="linearGradient3319"
+       gradientUnits="userSpaceOnUse"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084"
+       gradientTransform="matrix(1.0907455,0,0,1.0907455,-259.28647,-50.777468)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3321"
+       id="linearGradient3337"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.0907455,0,0,1.0907455,415.67058,-50.777468)"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3576"
+       id="linearGradient3343"
+       gradientUnits="userSpaceOnUse"
+       x1="301.42856"
+       y1="367.89789"
+       x2="301.4205"
+       y2="402.16998"
+       gradientTransform="matrix(1.570673,0,0,1.570673,-394.05913,-189.33738)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3468"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.3041535,-524.57194,-174.91924)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3472"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-34.821426,-33.75)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3482"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.88647166,31.848642,33.759273)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3502"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.86956319,31.732996,40.203088)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3540"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97266856,0,0,0.86224311,-278.83185,13.566501)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3542"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97266856,0,0,0.84579678,-278.94433,19.834202)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3548"
+       id="linearGradient3554"
+       x1="369.82144"
+       y1="283.07648"
+       x2="371.25"
+       y2="369.50504"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1655634,0,0,1.1655634,-353.08071,-82.945561)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3705"
+       id="linearGradient3711"
+       x1="333.60287"
+       y1="413.44067"
+       x2="333.35034"
+       y2="431.37091"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4997801,0,0,-1.4997801,527.16825,1047.9123)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3705"
+       id="linearGradient3729"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4997801,0,0,-1.4997801,627.33213,1047.9123)"
+       x1="333.60287"
+       y1="413.44067"
+       x2="333.35034"
+       y2="431.37091" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3758"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,335.06581,230.11864)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3762"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,266.85152,230.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3768"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,335.06581,175.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3770"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,266.85152,175.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3474"
+       id="linearGradient3866"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.4997801,-164.23252,-198.85487)"
+       x1="301.42856"
+       y1="367.89789"
+       x2="301.25"
+       y2="393.4426" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3209"
+       id="linearGradient3868"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7913583,0,0,1.7913583,-252.61679,-312.5711)"
+       x1="301.42856"
+       y1="372.54074"
+       x2="302.03"
+       y2="394.07224" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3145"
+       id="linearGradient3870"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4997801,0,0,1.4997801,736.52147,-198.85487)"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3321"
+       id="linearGradient3872"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.0907455,0,0,1.0907455,624.56851,-50.777468)"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3267"
+       id="linearGradient3874"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.4997801,-163.28564,-198.85487)"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3321"
+       id="linearGradient3876"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0907455,0,0,1.0907455,-50.388547,-50.777468)"
+       x1="281.83255"
+       y1="359.90262"
+       x2="270.21582"
+       y2="364.70084" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4333"
+       id="linearGradient3878"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1655634,0,0,1.1655634,-144.18277,-82.945561)"
+       x1="369.82144"
+       y1="283.07648"
+       x2="371.25"
+       y2="369.50504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3307"
+       id="linearGradient3880"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.4997801,-163.28564,-198.85487)"
+       x1="300.71429"
+       y1="289.86218"
+       x2="299.82144"
+       y2="319.32648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4997801,0,0,1.3041535,-315.674,-174.91924)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.88647166,31.848642,33.759273)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3886"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.86956319,31.732996,40.203088)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3888"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97266856,0,0,0.86224311,-69.933917,13.566501)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3462"
+       id="linearGradient3890"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97266856,0,0,0.84579678,-70.046397,19.834202)"
+       x1="368.57144"
+       y1="383.43362"
+       x2="368.75"
+       y2="413.25504" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3892"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,474.35152,230.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3894"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,406.13723,230.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3896"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,474.35152,175.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3752"
+       id="linearGradient3898"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14989224,0,0,0.38710823,406.13723,175.11864)"
+       x1="434.64285"
+       y1="263.43362"
+       x2="435"
+       y2="348.43362" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3705"
+       id="linearGradient3916"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4997801,0,0,-1.4997801,736.06617,1047.9123)"
+       x1="333.60287"
+       y1="413.44067"
+       x2="333.35034"
+       y2="431.37091" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3576"
+       id="linearGradient3918"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.570673,0,0,1.570673,-185.1612,-189.33738)"
+       x1="301.42856"
+       y1="367.89789"
+       x2="301.4205"
+       y2="402.16998" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3705"
+       id="linearGradient3920"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4997801,0,0,-1.4997801,836.23007,1047.9123)"
+       x1="333.60287"
+       y1="413.44067"
+       x2="333.35034"
+       y2="431.37091" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4045"
+       id="linearGradient4051"
+       x1="224.40201"
+       y1="638.30255"
+       x2="224.25386"
+       y2="-26.480734"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0046828,0,0,0.74769898,-6.2967274,225.81257)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4045"
+       id="linearGradient4055"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0046828,0,0,0.74769898,-528.33814,-333.61014)"
+       x1="224.40201"
+       y1="638.30255"
+       x2="224.25386"
+       y2="-26.480734" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="629.01194"
+     inkscape:cy="744.78576"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="898"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3703"
+       d="m 20.207933,456.45602 c 0,-12.85449 3.22217,-55.12525 7.19692,-55.12525 3.97473,0 7.19691,42.27076 7.19691,55.12525 0,12.85448 0.14652,23.27512 -7.19691,23.27512 -7.64976,0 -7.19692,-10.42064 -7.19692,-23.27512 z"
+       style="fill:url(#linearGradient3711);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3008"
+       d="m 48.933023,322.48704 -27.786,22.5302 5.77666,17.45553 32.52096,-8.22236 z"
+       style="fill:#ff7f2a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#ff7f2a;fill-opacity:1;stroke:none"
+       d="m 106.50696,322.48704 27.786,22.5302 -5.77666,17.45553 -32.520957,-8.22236 z"
+       id="path3217"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3343);fill-opacity:1;stroke:none"
+       d="m 62.592713,385.88963 31.16498,0.28048 7.458217,45.38578 c 0,0 -0.0778,4.5439 -22.833117,4.5439 -22.30079,0 -22.83314,-4.5439 -22.83314,-4.5439 z"
+       id="path3341"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       d="m 62.910243,350.40906 29.75833,0.26782 7.12161,43.33729 c 0,0 -0.0744,4.33881 -21.80255,4.33881 -21.29423,0 -21.80255,-4.33881 -21.80255,-4.33881 z"
+       id="rect3010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       inkscape:connector-curvature="0"
+       id="path3179"
+       d="m 62.910243,350.40906 29.75833,0.26782 7.12161,43.33729 c 0,0 -0.0744,4.33881 -21.80255,4.33881 -21.29423,0 -21.80255,-4.33881 -21.80255,-4.33881 z"
+       style="fill:url(#linearGradient3187);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       inkscape:connector-curvature="0"
+       id="path3193"
+       d="m 66.426733,359.73675 21.44672,0.19302 5.13252,31.23303 c 0,0 -0.0536,3.12698 -15.71304,3.12698 -15.34666,0 -15.71301,-3.12698 -15.71301,-3.12698 z"
+       style="fill:url(#linearGradient3215);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3219"
+       d="m 106.50696,322.48704 27.786,22.5302 -5.77666,17.45553 -32.520957,-8.22236 z"
+       style="fill:url(#linearGradient3227);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.5;fill:url(#linearGradient3337);fill-opacity:1;stroke:none"
+       d="m 109.40498,328.37904 20.20793,16.38553 -4.2012,12.6949 -23.65151,-5.97988 z"
+       id="path3335"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3151);fill-opacity:1;stroke:none"
+       d="m 48.933023,322.48704 -27.786,22.5302 5.77666,17.45553 32.52096,-8.22236 z"
+       id="path3143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3315"
+       d="m 46.979133,328.37904 -20.20794,16.38553 4.2012,12.6949 23.65152,-5.97988 z"
+       style="opacity:0.5;fill:url(#linearGradient3319);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#5599ff;fill-opacity:1;stroke:none"
+       d="m 107.31603,367.43251 -59.463997,0 c 0,-12.44613 -0.15982,-22.45673 -1.27096,-37.28918 -1.11116,-14.83245 -1.27987,-34.48678 2.48987,-48.04031 7.53947,-27.10708 17.95513,-47.99109 29.45997,-47.99109 11.50483,0 21.920517,20.88401 29.459967,47.99109 3.76973,13.55353 3.12757,33.20786 1.54299,48.04031 -1.58459,14.83245 -2.21784,24.84305 -2.21784,37.28918 z"
+       id="path2996"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssssc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.25;fill:#0066ff;fill-opacity:1;stroke:none"
+       id="path3638"
+       sodipodi:cx="300.80356"
+       sodipodi:cy="370.26398"
+       sodipodi:rx="6.3392859"
+       sodipodi:ry="11.830358"
+       d="m 307.14284,370.26398 a 6.3392859,11.830358 0 1 1 -12.67857,0 6.3392859,11.830358 0 1 1 12.67857,0 z"
+       transform="matrix(1.1618015,0,0,1.6186306,-270.11669,-241.7227)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       d="m 112.56308,377.12151 -69.422487,0 4.8022,-9.84754 59.417917,0 z"
+       id="rect3392"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#214478;fill-opacity:1;stroke:none"
+       d="m 45.123543,373.10366 -1.96846,4.03066 69.411687,0 -2.10906,-4.03066 -65.334167,0 z"
+       id="path3640"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.5;fill:url(#linearGradient3554);fill-opacity:1;stroke:none"
+       d="m 100.32228,349.23903 -46.212827,0 c 0,-9.67259 -0.12418,-17.45239 -0.98772,-28.97952 -0.86354,-11.52713 -0.99465,-26.80161 1.93502,-37.33482 5.85934,-21.06645 13.95393,-37.29657 22.89499,-37.29657 8.94106,0 17.03567,16.23012 22.894997,37.29657 2.92967,10.53321 2.43062,25.80769 1.19915,37.33482 -1.23148,11.52713 -1.72361,19.30693 -1.72361,28.97952 z"
+       id="path3546"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssssc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       d="m 78.528153,234.11481 c -9.00604,0 -17.32312,12.83961 -24.13708,31.40165 7.42067,-3.13252 15.57616,-4.87429 24.13708,-4.87429 8.56093,0 16.71642,1.74177 24.137087,4.87429 -6.813977,-18.56204 -15.131057,-31.40165 -24.137087,-31.40165 z"
+       id="path3013"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       d="m 34.596913,345.63616 c 0,12.8545 -3.22217,55.12526 -7.19692,55.12526 -3.97473,0 -7.1969,-42.27076 -7.1969,-55.12526 0,-12.85447 -0.14653,-23.27511 7.1969,-23.27511 7.64976,0 7.19692,10.42064 7.19692,23.27511 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3484"
+       d="m 30.244343,345.63616 c 0,12.8545 -1.2728,55.12526 -2.84288,55.12526 -1.57006,0 -2.84286,-42.27076 -2.84286,-55.12526 0,-12.85447 -0.0579,-23.27511 2.84286,-23.27511 3.02176,0 2.84288,10.42064 2.84288,23.27511 z"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3305"
+       d="m 78.528153,234.11481 c -9.00604,0 -17.32312,12.83961 -24.13708,31.40165 7.42067,-3.13252 15.57616,-4.87429 24.13708,-4.87429 8.56093,0 16.71642,1.74177 24.137087,4.87429 -6.813977,-18.56204 -15.131057,-31.40165 -24.137087,-31.40165 z"
+       style="fill:url(#linearGradient3313);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       id="path3349"
+       sodipodi:cx="382.85715"
+       sodipodi:cy="331.82648"
+       sodipodi:rx="10.714286"
+       sodipodi:ry="10.714286"
+       d="m 393.57143,331.82648 a 10.714286,10.714286 0 1 1 -21.42857,0 10.714286,10.714286 0 1 1 21.42857,0 z"
+       transform="matrix(1.6372599,0,0,1.6372599,-548.14884,-249.69677)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       transform="matrix(1.3123076,0,0,1.3123076,-423.73852,-141.60117)"
+       d="m 393.57143,331.82648 a 10.714286,10.714286 0 1 1 -21.42857,0 10.714286,10.714286 0 1 1 21.42857,0 z"
+       sodipodi:ry="10.714286"
+       sodipodi:rx="10.714286"
+       sodipodi:cy="331.82648"
+       sodipodi:cx="382.85715"
+       id="path3351"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3399"
+       sodipodi:cx="302.79321"
+       sodipodi:cy="324.7998"
+       sodipodi:rx="5.6821079"
+       sodipodi:ry="3.1567266"
+       d="m 308.47532,324.7998 a 5.6821079,3.1567266 0 1 1 -11.36422,0 5.6821079,3.1567266 0 1 1 11.36422,0 z"
+       transform="matrix(1.2969595,0.7531509,-0.7531509,1.2969595,-65.390107,-360.83839)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 78.702073,279.9775 c -2.0171,0 -3.93691,0.45364 -5.67105,1.21858 -2.37268,2.51729 -3.84318,5.87571 -3.84318,9.60796 0,7.76537 6.29507,14.06044 14.06044,14.06044 2.02836,0 3.9293,-0.39869 5.67104,-1.1717 2.37855,-2.51836 3.84319,-5.91739 3.84319,-9.65484 0,-7.76536 -6.29508,-14.06044 -14.06044,-14.06044 z"
+       id="path3407"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 78.527123,233.55715 c -2.00521,0 -3.97583,0.63667 -5.90539,1.82786 9.15541,5.61853 17.34135,23.75402 23.57467,46.1651 3.76973,13.55353 3.13123,33.20738 1.54665,48.03983 -1.58459,14.83245 -2.2028,24.8609 -2.2028,37.30703 l 11.763897,0 c 0,-12.44613 0.66508,-22.47458 2.24967,-37.30703 1.58458,-14.83245 2.22308,-34.4863 -1.54665,-48.03983 -7.53945,-27.10708 -17.975217,-47.99296 -29.480047,-47.99296 z"
+       id="path3429"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       d="m 78.547193,259.01325 c -8.29373,0 -16.23304,1.66799 -23.57512,4.60462 -0.91919,2.36094 -1.8294,4.83945 -2.7045,7.40031 8.07935,-3.6638 16.9588,-5.70098 26.27962,-5.70098 9.32084,0 18.20025,2.03718 26.279617,5.70098 -0.8748,-2.56004 -1.78564,-5.04004 -2.70451,-7.40031 -7.352917,-2.94654 -15.266677,-4.60462 -23.575107,-4.60462 z"
+       id="path3434"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3460"
+       d="m 34.596913,342.33242 c 0,11.17779 -3.22217,47.93489 -7.19692,47.93489 -3.97473,0 -7.1969,-36.7571 -7.1969,-47.93489 0,-11.17779 -0.14653,-20.23919 7.1969,-20.23919 7.64976,0 7.19692,9.0614 7.19692,20.23919 z"
+       style="opacity:0.25;fill:url(#linearGradient3468);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 34.527923,345.63616 c 0,12.8545 -3.65204,55.50402 -6.40496,55.50402 -2.75292,0 -3.5643,-42.64952 -3.5643,-55.50402 0,-12.85447 -1.1431,-23.46449 3.94305,-23.46449 5.29828,0 6.02621,10.61002 6.02621,23.46449 z"
+       id="path3488"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <g
+       id="g3664"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841"
+       transform="matrix(1.4997801,0,0,1.4997801,-472.17402,-235.21503)">
+      <path
+         style="fill:#2a7fff;fill-opacity:1;stroke:none"
+         d="m 404.5669,387.29092 c 0,8.57092 -2.14843,36.75556 -4.79865,36.75556 -2.65021,0 -4.79864,-28.18464 -4.79864,-36.75556 0,-8.57091 -0.0977,-15.51902 4.79864,-15.51902 5.10059,0 4.79865,6.94811 4.79865,15.51902 z"
+         id="path3279"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3470"
+         d="m 404.68254,385.3505 c 0,7.59788 -2.14843,32.58276 -4.79865,32.58276 -2.65021,0 -4.79864,-24.98488 -4.79864,-32.58276 0,-7.59787 -0.0977,-13.75717 4.79864,-13.75717 5.10059,0 4.79865,6.1593 4.79865,13.75717 z"
+         style="opacity:0.25;fill:url(#linearGradient3482);fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#2a7fff;fill-opacity:1;stroke:none"
+         d="m 404.5669,387.29092 c 0,8.57092 -2.14843,36.75556 -4.79865,36.75556 -2.65021,0 -4.79864,-28.18464 -4.79864,-36.75556 0,-8.57091 -0.0977,-15.51902 4.79864,-15.51902 5.10059,0 4.79865,6.94811 4.79865,15.51902 z"
+         id="path3490"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3492"
+         d="m 401.66476,387.29092 c 0,8.57092 -0.84866,36.75556 -1.89553,36.75556 -1.04686,0 -1.89552,-28.18464 -1.89552,-36.75556 0,-8.57091 -0.0386,-15.51902 1.89552,-15.51902 2.0148,0 1.89553,6.94811 1.89553,15.51902 z"
+         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3498"
+         d="m 404.5669,385.0881 c 0,7.45295 -2.14843,31.96128 -4.79865,31.96128 -2.65021,0 -4.79864,-24.50833 -4.79864,-31.96128 0,-7.45295 -0.0977,-13.49477 4.79864,-13.49477 5.10059,0 4.79865,6.04182 4.79865,13.49477 z"
+         style="opacity:0.25;fill:url(#linearGradient3502);fill-opacity:1;stroke:none" />
+      <path
+         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 404.5209,387.29092 c 0,8.57092 -2.41887,37.0081 -4.24223,37.0081 -1.82336,0 -2.36076,-28.43718 -2.36076,-37.0081 0,-8.57091 -0.75712,-15.64529 2.61162,-15.64529 3.50923,0 3.99137,7.07438 3.99137,15.64529 z"
+         id="path3500"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       d="m 83.699473,357.43562 c 0,8.33665 -2.0897,35.75098 -4.66748,35.75098 -2.57779,0 -4.6675,-27.41433 -4.6675,-35.75098 0,-8.33666 -0.0949,-15.09486 4.6675,-15.09486 4.96117,0 4.66748,6.7582 4.66748,15.09486 z"
+       id="path3528"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3530"
+       d="m 83.811953,355.54823 c 0,7.39022 -2.0897,31.69222 -4.66749,31.69222 -2.57778,0 -4.66748,-24.302 -4.66748,-31.69222 0,-7.3902 -0.0949,-13.38116 4.66748,-13.38116 4.96118,0 4.66749,5.99096 4.66749,13.38116 z"
+       style="opacity:0.25;fill:url(#linearGradient3540);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       d="m 83.699473,357.43562 c 0,8.33665 -2.0897,35.75098 -4.66748,35.75098 -2.57779,0 -4.6675,-27.41433 -4.6675,-35.75098 0,-8.33666 -0.0949,-15.09486 4.6675,-15.09486 4.96117,0 4.66748,6.7582 4.66748,15.09486 z"
+       id="path3532"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3534"
+       d="m 80.876663,357.43562 c 0,8.33665 -0.82546,35.75098 -1.84374,35.75098 -1.01825,0 -1.8437,-27.41433 -1.8437,-35.75098 0,-8.33666 -0.0375,-15.09486 1.8437,-15.09486 1.95975,0 1.84374,6.7582 1.84374,15.09486 z"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3536"
+       d="m 83.699473,355.29301 c 0,7.24926 -2.0897,31.08774 -4.66748,31.08774 -2.57779,0 -4.6675,-23.83848 -4.6675,-31.08774 0,-7.24925 -0.0949,-13.12594 4.6675,-13.12594 4.96117,0 4.66748,5.87669 4.66748,13.12594 z"
+       style="opacity:0.25;fill:url(#linearGradient3542);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 83.654733,357.43562 c 0,8.33665 -2.36848,35.99662 -4.15388,35.99662 -1.78537,0 -2.31158,-27.65997 -2.31158,-35.99662 0,-8.33666 -0.74137,-15.21768 2.55721,-15.21768 3.43617,0 3.90825,6.88102 3.90825,15.21768 z"
+       id="path3538"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 75.810033,234.55444 c -1.07687,0.30641 -2.13359,0.75571 -3.18704,1.40605 9.15541,5.61853 17.34135,23.75403 23.57467,46.1651 3.76973,13.55353 3.13123,33.20738 1.54665,48.03983 -1.58459,14.83245 -2.2028,24.8609 -2.2028,37.30703 l 6.280327,0 c 0,-12.44613 0.66507,-22.47458 2.24967,-37.30703 1.58458,-14.83245 2.22308,-34.4863 -1.54665,-48.03983 C 95.597083,257.2177 86.211033,237.57974 75.810033,234.55444 z"
+       id="path3556"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3562"
+       sodipodi:cx="293.92856"
+       sodipodi:cy="298.07648"
+       sodipodi:rx="5.8928571"
+       sodipodi:ry="3.5714285"
+       d="m 299.82142,298.07648 a 5.8928571,3.5714285 0 1 1 -11.78572,0 5.8928571,3.5714285 0 1 1 11.78572,0 z"
+       transform="matrix(0.8769469,-1.2166776,1.2166776,0.8769469,-549.90338,344.94895)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       transform="matrix(0.49431944,-0.68581961,0.68581961,0.49431944,-279.46978,300.89138)"
+       d="m 299.82142,298.07648 a 5.8928571,3.5714285 0 1 1 -11.78572,0 5.8928571,3.5714285 0 1 1 11.78572,0 z"
+       sodipodi:ry="3.5714285"
+       sodipodi:rx="5.8928571"
+       sodipodi:cy="298.07648"
+       sodipodi:cx="293.92856"
+       id="path3564"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#162d50;fill-opacity:1;stroke:none"
+       d="m 78.801623,262.8966 c -8.9447,0 -17.44719,1.90676 -25.26192,5.2961 -0.33665,0.9353 -0.65608,1.85176 -0.98423,2.81208 8.07935,-3.66379 16.92534,-5.67104 26.24615,-5.67104 9.32085,0 18.21365,2.00725 26.293017,5.67104 -0.32849,-0.96129 -0.69393,-1.87546 -1.0311,-2.81208 -7.803977,-3.3785 -16.332297,-5.2961 -25.261917,-5.2961 z"
+       id="path3645"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3729);fill-opacity:1;stroke:none"
+       d="m 120.37181,456.45602 c 0,-12.85449 3.22217,-55.12525 7.19692,-55.12525 3.97473,0 7.1969,42.27076 7.1969,55.12525 0,12.85448 0.14653,23.27512 -7.1969,23.27512 -7.64977,0 -7.19692,-10.42064 -7.19692,-23.27512 z"
+       id="path3727"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:#ff7f2a;fill-opacity:1;stroke:none"
+       d="m 257.83095,322.48704 -27.786,22.5302 5.77666,17.45553 32.52096,-8.22236 z"
+       id="path3772"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3774"
+       d="m 315.40489,322.48704 27.786,22.5302 -5.77666,17.45553 -32.52096,-8.22236 z"
+       style="fill:#ff7f2a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3916);fill-opacity:1;stroke:none"
+       d="m 229.10586,456.45602 c 0,-12.85449 3.22217,-55.12525 7.19692,-55.12525 3.97473,0 7.19691,42.27076 7.19691,55.12525 0,12.85448 0.14652,23.27512 -7.19691,23.27512 -7.64976,0 -7.19692,-10.42064 -7.19692,-23.27512 z"
+       id="path3910"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       inkscape:connector-curvature="0"
+       id="path3912"
+       d="m 271.49064,385.88963 31.16498,0.28048 7.45822,45.38578 c 0,0 -0.0778,4.5439 -22.83311,4.5439 -22.3008,0 -22.83315,-4.5439 -22.83315,-4.5439 z"
+       style="fill:url(#linearGradient3918);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3914"
+       d="m 329.26974,456.45602 c 0,-12.85449 3.22217,-55.12525 7.19692,-55.12525 3.97473,0 7.1969,42.27076 7.1969,55.12525 0,12.85448 0.14653,23.27512 -7.1969,23.27512 -7.64977,0 -7.19692,-10.42064 -7.19692,-23.27512 z"
+       style="fill:url(#linearGradient3920);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       inkscape:connector-curvature="0"
+       id="path3776"
+       d="m 271.80817,350.40906 29.75834,0.26782 7.1216,43.33729 c 0,0 -0.0744,4.33881 -21.80255,4.33881 -21.29423,0 -21.80255,-4.33881 -21.80255,-4.33881 z"
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3866);fill-opacity:1;stroke:none"
+       d="m 271.80817,350.40906 29.75834,0.26782 7.1216,43.33729 c 0,0 -0.0744,4.33881 -21.80255,4.33881 -21.29423,0 -21.80255,-4.33881 -21.80255,-4.33881 z"
+       id="path3778"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3868);fill-opacity:1;stroke:none"
+       d="m 275.32466,359.73675 21.44672,0.19302 5.13252,31.23303 c 0,0 -0.0536,3.12698 -15.71304,3.12698 -15.34666,0 -15.71301,-3.12698 -15.71301,-3.12698 z"
+       id="path3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3870);fill-opacity:1;stroke:none"
+       d="m 315.40489,322.48704 27.786,22.5302 -5.77666,17.45553 -32.52096,-8.22236 z"
+       id="path3782"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3784"
+       d="m 318.30291,328.37904 20.20793,16.38553 -4.2012,12.6949 -23.65151,-5.97988 z"
+       style="opacity:0.5;fill:url(#linearGradient3872);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3786"
+       d="m 257.83095,322.48704 -27.786,22.5302 5.77666,17.45553 32.52096,-8.22236 z"
+       style="fill:url(#linearGradient3874);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.5;fill:url(#linearGradient3876);fill-opacity:1;stroke:none"
+       d="m 255.87706,328.37904 -20.20794,16.38553 4.2012,12.6949 23.65152,-5.97988 z"
+       id="path3788"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccsssssc"
+       inkscape:connector-curvature="0"
+       id="path3790"
+       d="m 316.21396,367.43251 -59.464,0 c 0,-12.44613 -0.15982,-22.45673 -1.27096,-37.28918 -1.11116,-14.83245 -1.27987,-34.48678 2.48987,-48.04031 7.53947,-27.10708 17.95513,-47.99109 29.45997,-47.99109 11.50483,0 21.92052,20.88401 29.45997,47.99109 3.76973,13.55353 3.12757,33.20786 1.54299,48.04031 -1.58459,14.83245 -2.21784,24.84305 -2.21784,37.28918 z"
+       style="fill:#c83737;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       transform="matrix(1.1618015,0,0,1.6186306,-61.218757,-241.7227)"
+       d="m 307.14284,370.26398 a 6.3392859,11.830358 0 1 1 -12.67857,0 6.3392859,11.830358 0 1 1 12.67857,0 z"
+       sodipodi:ry="11.830358"
+       sodipodi:rx="6.3392859"
+       sodipodi:cy="370.26398"
+       sodipodi:cx="300.80356"
+       id="path3792"
+       style="opacity:0.25;fill:#501616;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3794"
+       d="m 321.46101,377.12151 -69.42249,0 4.8022,-9.84754 59.41792,0 z"
+       style="fill:#a02c2c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3796"
+       d="m 254.02147,373.10366 -1.96846,4.03066 69.41169,0 -2.10906,-4.03066 -65.33417,0 z"
+       style="opacity:0.25;fill:#280b0b;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="ccsssssc"
+       inkscape:connector-curvature="0"
+       id="path3798"
+       d="m 309.22021,349.23903 -46.21283,0 c 0,-9.67259 -0.12418,-17.45239 -0.98772,-28.97952 -0.86354,-11.52713 -0.99465,-26.80161 1.93502,-37.33482 5.85934,-21.06645 13.95393,-37.29657 22.89499,-37.29657 8.94106,0 17.03568,16.23012 22.895,37.29657 2.92967,10.53321 2.43062,25.80769 1.19915,37.33482 -1.23148,11.52713 -1.72361,19.30693 -1.72361,28.97952 z"
+       style="opacity:0.5;fill:url(#linearGradient3878);fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3800"
+       d="m 287.42608,234.11481 c -9.00604,0 -17.32312,12.83961 -24.13708,31.40165 7.42067,-3.13252 15.57616,-4.87429 24.13708,-4.87429 8.56093,0 16.71642,1.74177 24.13709,4.87429 -6.81398,-18.56204 -15.13106,-31.40165 -24.13709,-31.40165 z"
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3802"
+       d="m 243.49484,345.63616 c 0,12.8545 -3.22217,55.12526 -7.19692,55.12526 -3.97473,0 -7.1969,-42.27076 -7.1969,-55.12526 0,-12.85447 -0.14653,-23.27511 7.1969,-23.27511 7.64976,0 7.19692,10.42064 7.19692,23.27511 z"
+       style="fill:#c83737;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 239.14227,345.63616 c 0,12.8545 -1.2728,55.12526 -2.84288,55.12526 -1.57006,0 -2.84286,-42.27076 -2.84286,-55.12526 0,-12.85447 -0.0579,-23.27511 2.84286,-23.27511 3.02176,0 2.84288,10.42064 2.84288,23.27511 z"
+       id="path3804"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="fill:url(#linearGradient3880);fill-opacity:1;stroke:none"
+       d="m 287.42608,234.11481 c -9.00604,0 -17.32312,12.83961 -24.13708,31.40165 7.42067,-3.13252 15.57616,-4.87429 24.13708,-4.87429 8.56093,0 16.71642,1.74177 24.13709,4.87429 -6.81398,-18.56204 -15.13106,-31.40165 -24.13709,-31.40165 z"
+       id="path3806"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       transform="matrix(1.6372599,0,0,1.6372599,-339.2509,-249.69677)"
+       d="m 393.57143,331.82648 a 10.714286,10.714286 0 1 1 -21.42857,0 10.714286,10.714286 0 1 1 21.42857,0 z"
+       sodipodi:ry="10.714286"
+       sodipodi:rx="10.714286"
+       sodipodi:cy="331.82648"
+       sodipodi:cx="382.85715"
+       id="path3808"
+       style="fill:#a02c2c;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.5;fill:#5599ff;fill-opacity:1;stroke:none"
+       id="path3810"
+       sodipodi:cx="382.85715"
+       sodipodi:cy="331.82648"
+       sodipodi:rx="10.714286"
+       sodipodi:ry="10.714286"
+       d="m 393.57143,331.82648 a 10.714286,10.714286 0 1 1 -21.42857,0 10.714286,10.714286 0 1 1 21.42857,0 z"
+       transform="matrix(1.3123076,0,0,1.3123076,-214.84058,-141.60117)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       transform="matrix(1.2969595,0.7531509,-0.7531509,1.2969595,143.50782,-360.83839)"
+       d="m 308.47532,324.7998 a 5.6821079,3.1567266 0 1 1 -11.36422,0 5.6821079,3.1567266 0 1 1 11.36422,0 z"
+       sodipodi:ry="3.1567266"
+       sodipodi:rx="5.6821079"
+       sodipodi:cy="324.7998"
+       sodipodi:cx="302.79321"
+       id="path3812"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3814"
+       d="m 287.6,279.9775 c -2.0171,0 -3.93691,0.45364 -5.67105,1.21858 -2.37268,2.51729 -3.84318,5.87571 -3.84318,9.60796 0,7.76537 6.29507,14.06044 14.06044,14.06044 2.02836,0 3.9293,-0.39869 5.67104,-1.1717 2.37855,-2.51836 3.84319,-5.91739 3.84319,-9.65484 0,-7.76536 -6.29508,-14.06044 -14.06044,-14.06044 z"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3816"
+       d="m 287.42505,233.55715 c -2.00521,0 -3.97583,0.63667 -5.90539,1.82786 9.15541,5.61853 17.34135,23.75402 23.57467,46.1651 3.76973,13.55353 3.13123,33.20738 1.54665,48.03983 -1.58459,14.83245 -2.2028,24.8609 -2.2028,37.30703 l 11.7639,0 c 0,-12.44613 0.66508,-22.47458 2.24967,-37.30703 1.58458,-14.83245 2.22308,-34.4863 -1.54665,-48.03983 -7.53945,-27.10708 -17.97522,-47.99296 -29.48005,-47.99296 z"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3818"
+       d="m 287.44512,259.01325 c -8.29373,0 -16.23304,1.66799 -23.57512,4.60462 -0.91919,2.36094 -1.8294,4.83945 -2.7045,7.40031 8.07935,-3.6638 16.9588,-5.70098 26.27962,-5.70098 9.32084,0 18.20025,2.03718 26.27962,5.70098 -0.8748,-2.56004 -1.78564,-5.04004 -2.70451,-7.40031 -7.35292,-2.94654 -15.26668,-4.60462 -23.57511,-4.60462 z"
+       style="fill:#c83737;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:url(#linearGradient3882);fill-opacity:1;stroke:none"
+       d="m 243.49484,342.33242 c 0,11.17779 -3.22217,47.93489 -7.19692,47.93489 -3.97473,0 -7.1969,-36.7571 -7.1969,-47.93489 0,-11.17779 -0.14653,-20.23919 7.1969,-20.23919 7.64976,0 7.19692,9.0614 7.19692,20.23919 z"
+       id="path3820"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3822"
+       d="m 243.42585,345.63616 c 0,12.8545 -3.65204,55.50402 -6.40496,55.50402 -2.75292,0 -3.5643,-42.64952 -3.5643,-55.50402 0,-12.85447 -1.1431,-23.46449 3.94306,-23.46449 5.29827,0 6.0262,10.61002 6.0262,23.46449 z"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <g
+       id="g3824"
+       transform="matrix(1.4997801,0,0,1.4997801,-263.27608,-235.21503)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3826"
+         d="m 404.5669,387.29092 c 0,8.57092 -2.14843,36.75556 -4.79865,36.75556 -2.65021,0 -4.79864,-28.18464 -4.79864,-36.75556 0,-8.57091 -0.0977,-15.51902 4.79864,-15.51902 5.10059,0 4.79865,6.94811 4.79865,15.51902 z"
+         style="fill:#2a7fff;fill-opacity:1;stroke:none" />
+      <path
+         style="opacity:0.25;fill:url(#linearGradient3884);fill-opacity:1;stroke:none"
+         d="m 404.68254,385.3505 c 0,7.59788 -2.14843,32.58276 -4.79865,32.58276 -2.65021,0 -4.79864,-24.98488 -4.79864,-32.58276 0,-7.59787 -0.0977,-13.75717 4.79864,-13.75717 5.10059,0 4.79865,6.1593 4.79865,13.75717 z"
+         id="path3828"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3830"
+         d="m 404.5669,387.29092 c 0,8.57092 -2.14843,36.75556 -4.79865,36.75556 -2.65021,0 -4.79864,-28.18464 -4.79864,-36.75556 0,-8.57091 -0.0977,-15.51902 4.79864,-15.51902 5.10059,0 4.79865,6.94811 4.79865,15.51902 z"
+         style="fill:#c83737;fill-opacity:1;stroke:none" />
+      <path
+         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 401.66476,387.29092 c 0,8.57092 -0.84866,36.75556 -1.89553,36.75556 -1.04686,0 -1.89552,-28.18464 -1.89552,-36.75556 0,-8.57091 -0.0386,-15.51902 1.89552,-15.51902 2.0148,0 1.89553,6.94811 1.89553,15.51902 z"
+         id="path3832"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         style="opacity:0.25;fill:url(#linearGradient3886);fill-opacity:1;stroke:none"
+         d="m 404.5669,385.0881 c 0,7.45295 -2.14843,31.96128 -4.79865,31.96128 -2.65021,0 -4.79864,-24.50833 -4.79864,-31.96128 0,-7.45295 -0.0977,-13.49477 4.79864,-13.49477 5.10059,0 4.79865,6.04182 4.79865,13.49477 z"
+         id="path3834"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3836"
+         d="m 404.5209,387.29092 c 0,8.57092 -2.41887,37.0081 -4.24223,37.0081 -1.82336,0 -2.36076,-28.43718 -2.36076,-37.0081 0,-8.57091 -0.75712,-15.64529 2.61162,-15.64529 3.50923,0 3.99137,7.07438 3.99137,15.64529 z"
+         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3838"
+       d="m 292.5974,357.43562 c 0,8.33665 -2.0897,35.75098 -4.66748,35.75098 -2.57779,0 -4.6675,-27.41433 -4.6675,-35.75098 0,-8.33666 -0.0949,-15.09486 4.6675,-15.09486 4.96117,0 4.66748,6.7582 4.66748,15.09486 z"
+       style="fill:#2a7fff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:url(#linearGradient3888);fill-opacity:1;stroke:none"
+       d="m 292.70988,355.54823 c 0,7.39022 -2.0897,31.69222 -4.66749,31.69222 -2.57778,0 -4.66748,-24.302 -4.66748,-31.69222 0,-7.3902 -0.0949,-13.38116 4.66748,-13.38116 4.96118,0 4.66749,5.99096 4.66749,13.38116 z"
+       id="path3840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3842"
+       d="m 292.5974,357.43562 c 0,8.33665 -2.0897,35.75098 -4.66748,35.75098 -2.57779,0 -4.6675,-27.41433 -4.6675,-35.75098 0,-8.33666 -0.0949,-15.09486 4.6675,-15.09486 4.96117,0 4.66748,6.7582 4.66748,15.09486 z"
+       style="fill:#c83737;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 289.77459,357.43562 c 0,8.33665 -0.82546,35.75098 -1.84374,35.75098 -1.01825,0 -1.84369,-27.41433 -1.84369,-35.75098 0,-8.33666 -0.0375,-15.09486 1.84369,-15.09486 1.95975,0 1.84374,6.7582 1.84374,15.09486 z"
+       id="path3844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       style="opacity:0.25;fill:url(#linearGradient3890);fill-opacity:1;stroke:none"
+       d="m 292.5974,355.29301 c 0,7.24926 -2.0897,31.08774 -4.66748,31.08774 -2.57779,0 -4.6675,-23.83848 -4.6675,-31.08774 0,-7.24925 -0.0949,-13.12594 4.6675,-13.12594 4.96117,0 4.66748,5.87669 4.66748,13.12594 z"
+       id="path3846"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       id="path3848"
+       d="m 292.55266,357.43562 c 0,8.33665 -2.36848,35.99662 -4.15388,35.99662 -1.78537,0 -2.31158,-27.65997 -2.31158,-35.99662 0,-8.33666 -0.74137,-15.21768 2.55722,-15.21768 3.43616,0 3.90824,6.88102 3.90824,15.21768 z"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3850"
+       d="m 284.70796,234.55444 c -1.07687,0.30641 -2.13359,0.75571 -3.18704,1.40605 9.15541,5.61853 17.34135,23.75403 23.57467,46.1651 3.76973,13.55353 3.13123,33.20738 1.54665,48.03983 -1.58459,14.83245 -2.2028,24.8609 -2.2028,37.30703 l 6.28033,0 c 0,-12.44613 0.66508,-22.47458 2.24967,-37.30703 1.58458,-14.83245 2.22308,-34.4863 -1.54665,-48.03983 -6.92778,-24.90789 -16.31383,-44.54585 -26.71483,-47.57115 z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       transform="matrix(0.8769469,-1.2166776,1.2166776,0.8769469,-341.00544,344.94895)"
+       d="m 299.82142,298.07648 a 5.8928571,3.5714285 0 1 1 -11.78572,0 5.8928571,3.5714285 0 1 1 11.78572,0 z"
+       sodipodi:ry="3.5714285"
+       sodipodi:rx="5.8928571"
+       sodipodi:cy="298.07648"
+       sodipodi:cx="293.92856"
+       id="path3852"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3854"
+       sodipodi:cx="293.92856"
+       sodipodi:cy="298.07648"
+       sodipodi:rx="5.8928571"
+       sodipodi:ry="3.5714285"
+       d="m 299.82142,298.07648 a 5.8928571,3.5714285 0 1 1 -11.78572,0 5.8928571,3.5714285 0 1 1 11.78572,0 z"
+       transform="matrix(0.49431944,-0.68581961,0.68581961,0.49431944,-70.571847,300.89138)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3856"
+       d="m 287.69955,262.8966 c -8.9447,0 -17.44719,1.90676 -25.26192,5.2961 -0.33665,0.9353 -0.65608,1.85176 -0.98423,2.81208 8.07935,-3.66379 16.92534,-5.67104 26.24615,-5.67104 9.32085,0 18.21365,2.00725 26.29302,5.67104 -0.32849,-0.96129 -0.69393,-1.87546 -1.0311,-2.81208 -7.80398,-3.3785 -16.3323,-5.2961 -25.26192,-5.2961 z"
+       style="opacity:0.25;fill:#162d50;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841" />
+    <g
+       id="g4377"
+       transform="matrix(1.4997801,0,0,1.4997801,-134.32753,210.19692)"
+       inkscape:export-filename="C:\Users\Batoman\Desktop\graphics\spaceship2.png"
+       inkscape:export-xdpi="116.06841"
+       inkscape:export-ydpi="116.06841">
+      <g
+         transform="translate(-10,134.28571)"
+         id="g3980">
+        <path
+           style="fill:#ac9393;fill-opacity:1;stroke:none"
+           d="m 501.10465,-60.120854 c 0,17.472242 -6.35567,24.367333 -16.63139,35.817416 -10.27572,11.450088 -22.04002,22.8437226 -37.71814,22.5880456 -24.87094,-0.405596 -55.09845,-28.3687346 -56.78309,-63.2725846 -1.21679,-25.210238 25.42265,-63.272593 56.78309,-63.272593 15.68021,0 29.87598,11.94915 40.1517,23.39924 10.27572,11.450084 14.19783,27.268234 14.19783,44.740476 z"
+           id="path3922"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssssss" />
+        <path
+           sodipodi:nodetypes="sssssss"
+           inkscape:connector-curvature="0"
+           id="path3974"
+           d="m 457.82494,-63.863132 c 0,10.737966 -3.29492,14.975495 -8.62208,22.012402 -5.32716,7.036912 -11.42603,14.039131 -19.55392,13.882001 -12.89364,-0.249272 -28.56424,-17.434652 -29.4376,-38.885606 -0.6308,-15.493521 13.17967,-38.885595 29.4376,-38.885595 8.12897,0 15.48837,7.343611 20.81553,14.380524 5.32716,7.036907 7.36047,16.758308 7.36047,27.496274 z"
+           style="opacity:0.25;fill:#916f6f;fill-opacity:1;stroke:none" />
+        <path
+           style="opacity:0.25;fill:#916f6f;fill-opacity:1;stroke:none"
+           d="m 446.74679,-128.12173 c -5.60308,0 -11.04894,1.23183 -16.21867,3.3715 9.75452,4.35629 18.47706,12.30803 25.41043,20.03378 10.27572,11.450086 14.19578,27.262183 14.19578,44.734431 0,17.472241 -6.35108,24.376497 -16.6268,35.826581 -6.65169,7.411885 -13.94327,14.7845036 -22.5003,19.0045896 5.27851,2.239576 10.61932,3.500933 15.73956,3.584432 15.67813,0.255677 27.44955,-11.1389336 37.72527,-22.5890216 10.27571,-11.450084 16.62679,-18.35434 16.62679,-35.826581 0,-17.472248 -3.92005,-33.284345 -14.19577,-44.734431 -10.27572,-11.45009 -24.47608,-23.40528 -40.15629,-23.40528 z"
+           id="path3967"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:0.1;fill:#483737;fill-opacity:1;stroke:none"
+           d="m 446.468,-128.11523 c -2.9762,0 -5.91224,0.33385 -8.78363,0.97596 12.53917,3.07212 23.76545,12.92454 32.29538,22.42932 10.27572,11.450082 14.19577,27.262185 14.19577,44.734427 0,17.472241 -6.35108,24.358753 -16.62679,35.808836 -8.32298,9.274177 -17.62523,18.5021106 -29.19006,21.5420836 2.73796,0.647237 5.4523,1.003607 8.10933,1.046938 15.67813,0.255678 27.44955,-11.1389336 37.72527,-22.5890216 10.27572,-11.450083 16.6268,-18.336595 16.6268,-35.808836 0,-17.472242 -3.92006,-33.284345 -14.19578,-44.734427 -10.27572,-11.45009 -24.47607,-23.40528 -40.15629,-23.40528 z"
+           id="path3962"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:0.25;fill:#916f6f;fill-opacity:1;stroke:none"
+           d="m 447.47087,-77.502211 c 0,4.520936 -2.18323,6.305036 -5.71305,9.267739 -3.52981,2.962706 -7.57097,5.910805 -12.95656,5.844649 -8.54342,-0.104949 -18.92687,-7.340399 -19.50557,-16.371755 -0.41797,-6.523136 8.73295,-16.37175 19.50557,-16.37175 5.38631,0 10.2627,3.09184 13.79251,6.054539 3.52981,2.962703 4.8771,7.055642 4.8771,11.576578 z"
+           id="path3978"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssssss" />
+      </g>
+    </g>
+  </g>
+</svg>
