@@ -26,9 +26,9 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_7867F679","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_E80012C","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7F5FEE97","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3BA3CB4A","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_E80012C","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

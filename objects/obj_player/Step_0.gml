@@ -9,11 +9,11 @@ if(random(1)<=0.03){
 
 
 if keyboard_check(vk_left){
-   image_angle+=5;
+   image_angle+=rot_speed;
 }
 
 if keyboard_check(vk_right){
-	image_angle-=5;
+	image_angle-=rot_speed;
 }  
-direction=image_angle;
-speed=8;
+direction=image_angle+90;
+speed=max_speed;
