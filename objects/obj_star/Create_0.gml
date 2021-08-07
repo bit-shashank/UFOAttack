@@ -19,5 +19,3 @@ refuel_amount = 30;
 
 global.star_fuel = 1000;
 global.star_isCritical = false;
-//Res = shader_get_uniform(shdr_star,"iResolution"); 
-//Time = shader_get_uniform(shdr_star,"iGlobalTime"); 

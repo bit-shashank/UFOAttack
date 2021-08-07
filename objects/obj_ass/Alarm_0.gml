@@ -16,4 +16,4 @@ for (var i = 0; i < 3; i += 1){
 	rocket.target=target;
 }
 
-alarm[0] = (room_speed * 10); 
+alarm[0] = (room_speed * spawn_time); 
