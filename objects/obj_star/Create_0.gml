@@ -1,4 +1,7 @@
 // setting initial properties
+x = room_width/2;
+y = room_height/2;
+
 original_x = image_xscale;
 original_y = image_yscale;
 
@@ -11,7 +14,7 @@ current_fuel_ratio = 1;
 //every missile fed will restore 15 health
 star_fuel_decay_rate = 0.13;
 
-refuel_amount = 15;
+refuel_amount = 30;
 
 
 global.star_fuel = 1000;
