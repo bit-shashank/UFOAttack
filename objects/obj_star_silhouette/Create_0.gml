@@ -6,4 +6,6 @@ with (obj_star){
 
 	other.x = x;
 	other.y = y;
+	other.image_xscale = image_xscale * 1.2;
+	other.image_yscale = image_yscale * 1.2;
 }

@@ -1,20 +1,15 @@
 
-//Create Random Asteriods
-
-if(random(1)<=0.03){
-	//ran_width=random_range(-200,200);
-	//ran_height=random_range(-200,200);
-     //instance_create_layer(random(room_width),random(room_height),"Instances",obj_asteroid);
-}
-
+var turn_speed = rot_speed - near_star;
 
 if keyboard_check(vk_left){
-   image_angle+=rot_speed;
+   image_angle += turn_speed;
 }
 
 if keyboard_check(vk_right){
-	image_angle-=rot_speed;
+	image_angle -= turn_speed;
 }
 
 direction=image_angle+90;
 speed= max_speed;
+
+near_star = 0;
