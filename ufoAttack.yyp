@@ -4,6 +4,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":8,},
     {"id":{"name":"spr_boom","path":"sprites/spr_boom/spr_boom.yy",},"order":3,},
+    {"id":{"name":"obj_shake","path":"objects/obj_shake/obj_shake.yy",},"order":10,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},"order":7,},
     {"id":{"name":"spr_marker","path":"sprites/spr_marker/spr_marker.yy",},"order":6,},
