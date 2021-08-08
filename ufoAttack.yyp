@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":3,},
+    {"id":{"name":"spr_star_fuel_1","path":"sprites/spr_star_fuel_1/spr_star_fuel_1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":8,},
     {"id":{"name":"spr_boom","path":"sprites/spr_boom/spr_boom.yy",},"order":3,},
@@ -15,6 +16,7 @@
     {"id":{"name":"shdr_star","path":"shaders/shdr_star/shdr_star.yy",},"order":0,},
     {"id":{"name":"obj_ass_spawner","path":"objects/obj_ass_spawner/obj_ass_spawner.yy",},"order":6,},
     {"id":{"name":"spr_asteroid","path":"sprites/spr_asteroid/spr_asteroid.yy",},"order":2,},
+    {"id":{"name":"spr_bar_border","path":"sprites/spr_bar_border/spr_bar_border.yy",},"order":1,},
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},"order":1,},
     {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":7,},
     {"id":{"name":"obj_boom","path":"objects/obj_boom/obj_boom.yy",},"order":4,},
@@ -51,6 +53,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":11,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":12,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":13,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/health_bar.yy","order":9,"resourceVersion":"1.0","name":"health_bar","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
