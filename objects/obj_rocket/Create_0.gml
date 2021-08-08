@@ -4,12 +4,10 @@
 is_activated=false;
 is_near_star = 0;
 
-turnRadius = 4;
-maxSpeed = 15;
+turnRadius = 5;
+maxSpeed = 13.5;
 acceleration = 0.4;
-
-
-alarm[0]=room_speed*1;
+alarm[0]=room_speed*2;
 
 
 //console log statement
