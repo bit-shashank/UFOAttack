@@ -18,3 +18,4 @@ if keyboard_check(vk_right){
 
 direction=image_angle+90;
 speed= max_speed;
+   

@@ -5,5 +5,3 @@
  
  max_speed=8;
  rot_speed=3;
-
- 
