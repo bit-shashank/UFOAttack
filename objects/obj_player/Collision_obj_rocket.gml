@@ -7,4 +7,6 @@ with(other){
 }
 //instance_destroy(); 
 
-instance_create_layer(x,y,"Instances",obj_shake);
+inst=instance_create_layer(x,y,"Instances",obj_shake);
+inst.shake_pow=10;
+inst.shake_time=1.5;
