@@ -13,3 +13,4 @@ direction=image_angle+90;
 speed= max_speed;
 
 near_star = 0;
+

@@ -6,15 +6,20 @@ switch(active_powerup){
 			max_speed-=3;
 			break;
 			
-		case POWERUPS.health:
+	case POWERUPS.health:
 		break;	 
 	
-		case POWERUPS.invisible:
+	case POWERUPS.invisible:
 			with(obj_rocket){
 				target=id;
 			}
 			break;
 		
-		case POWERUPS.shock:
+	case POWERUPS.shock:
 			break;
+	
+	case POWERUPS.shield:
+		    break;
 }
+
+active_powerup=noone;
