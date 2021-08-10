@@ -2,7 +2,7 @@
 
 // particles 
 
-part_type_direction(global.part_star_emit, 0, 359, 0.001, 0);
+part_type_direction(global.part_boost_trail, image_angle - 90 ,image_angle - 90 , 0, 0);
 
 
 // emitter region are is localized to a point as rotational
@@ -12,7 +12,7 @@ part_emitter_region(global.P_System, emmiter_trail,
                     x , x  , y , y , ps_shape_rectangle, 
                     ps_distr_linear);
 
-part_emitter_burst(global.P_System, emmiter_trail, global.part_star_emit, 1);
+part_emitter_burst(global.P_System, emmiter_trail, global.part_boost_trail, 2);
 
 
 alarm[0] = (room_speed * emitter_freq);
