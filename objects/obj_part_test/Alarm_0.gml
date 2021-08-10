@@ -3,7 +3,7 @@
 // particles 
 
 part_type_direction(global.part_boost_trail, image_angle - 90 ,image_angle - 90 , 0, 0);
-
+part_type_orientation(global.part_boost_trail, image_angle, image_angle, 0, 0, 0)
 
 // emitter region are is localized to a point as rotational
 // transformations on the emitter region is not the same as the sprite
