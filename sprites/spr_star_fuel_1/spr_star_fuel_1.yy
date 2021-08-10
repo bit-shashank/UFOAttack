@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "health_bar",
-    "path": "folders/Sprites/health_bar.yy",
+    "name": "UI",
+    "path": "folders/Sprites/UI.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_star_fuel_1",

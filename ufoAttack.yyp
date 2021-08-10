@@ -71,7 +71,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":11,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":12,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":13,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/health_bar.yy","order":7,"resourceVersion":"1.0","name":"health_bar","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/UI.yy","order":7,"resourceVersion":"1.0","name":"UI","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/particles.yy","order":11,"resourceVersion":"1.0","name":"particles","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
