@@ -2,7 +2,7 @@
 
 // particles 
 
-part_type_direction(global.part_star_emit, 0, 359, 0.001, 0);
+part_type_direction(global.part_star_emit, 0, 359, 0.000, 0);
 
 
 // emitter region are is localized to a point as rotational
