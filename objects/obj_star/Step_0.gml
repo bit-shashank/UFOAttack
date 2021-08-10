@@ -11,7 +11,7 @@ global.star_isCritical = (current_fuel_ratio <= critical_threshold) ? true:false
 
 
 //game over 
-if (current_fuel_ratio == 0){
+if (current_fuel_ratio <= 0.01){
 	instance_destroy();
 }
 
