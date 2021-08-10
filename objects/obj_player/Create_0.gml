@@ -3,6 +3,7 @@ show_debug_overlay(true);
 max_speed=12;
 rot_speed=3;
 near_star = 0;
+near_star_speed = 0;
 active_powerup=noone;
 powerup_duration=3;
 view=0;
