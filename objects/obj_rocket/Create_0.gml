@@ -18,6 +18,8 @@ with(obj_player){
 	marker_inst.targetObj=other.id;
 }
 
+emmiter_trail = part_emitter_create(global.P_System);
+
 
 //console log statement
 //show_debug_message(room_speed);
