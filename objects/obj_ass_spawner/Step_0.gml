@@ -5,9 +5,10 @@
 curr_ass=instance_number(obj_ass);
 if(instance_exists(target)){ 
 	if(curr_ass<max_ass){
-		var instAss=instance_create_layer(random(room_width),random(room_height),"Instances",obj_ass);
- 		instAss.target=target;
-		curr_ass+=1;
+		with(obj_player){
+			var instAss=instance_create_layer(random_range(x-2000,x+2000),random_range(y-2000,y+2000),"Instances",obj_ass);
+	 		instAss.target=other.target;
+			other.curr_ass+=1;
+		}
 	}
-}
-                 
+}                             
