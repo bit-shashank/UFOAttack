@@ -1,5 +1,4 @@
 
-
 var turn_speed = rot_speed - near_star;
 
 if keyboard_check(vk_left){

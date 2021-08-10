@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "ui",
-    "path": "folders/Sprites/ui.yy",
+    "name": "health_bar",
+    "path": "folders/Sprites/health_bar.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bar_border",
