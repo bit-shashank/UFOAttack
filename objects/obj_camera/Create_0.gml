@@ -32,7 +32,6 @@ if (player2){
 camera_1 = camera_create_view(0, 0, viewport_width , window_height, 0, player2, -1, -1, window_width/2-50 , window_height/2-50);
 view_set_camera(1, camera_1);
 view_set_xport(1, window_width/2)
-
 }
 
 ///some resizing and centering
