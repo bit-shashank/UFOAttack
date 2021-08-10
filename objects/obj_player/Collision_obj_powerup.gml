@@ -5,7 +5,7 @@ active_powerup=other.type;
 switch(other.type){
 	case POWERUPS.speed:
 		powerup_duration=5;
-		max_speed+=5;
+		max_speed=18;
 		break;
 			
 	case POWERUPS.health:

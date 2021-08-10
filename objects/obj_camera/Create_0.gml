@@ -6,8 +6,8 @@ view_enabled = true;
 view_set_visible(0, true);
 if (global.num_players > 1) view_set_visible(1, true);
 
-window_height = display_get_height()-100;
-window_width =  display_get_width()-100;
+window_height = display_get_height();
+window_width =  display_get_width();
 
 ///viewports 0,1 set side by side
 view_set_hport(0,window_height);
@@ -36,5 +36,7 @@ view_set_xport(1, window_width/2)
 }
 
 ///some resizing and centering
-window_set_rectangle(50,50,window_width, window_height);
+window_set_position(20,20);
+window_set_rectangle(0,0,window_width, window_height);
 surface_resize(application_surface,window_width, window_height);
+ 

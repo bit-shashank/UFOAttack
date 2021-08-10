@@ -16,7 +16,6 @@ speed= max_speed;
 // if not close to star, set radius penalty to 0
 near_star = 0;
 
-
 // particles 
 part_type_direction(global.part_fire_trail1, image_angle - 90 - 15, image_angle - 90 + 15, 0, 0);
 

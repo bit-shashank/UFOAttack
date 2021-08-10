@@ -15,5 +15,7 @@ if (instance_exists(targetObj)){
 			other.visible=true;
 		}
 	}
+}else{
+	instance_destroy();
 }
 
