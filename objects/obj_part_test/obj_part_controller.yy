@@ -25,7 +25,7 @@
     "path": "folders/Objects/particles.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_part_syst_fire",
+  "name": "obj_part_controller",
   "tags": [],
   "resourceType": "GMObject",
 }
