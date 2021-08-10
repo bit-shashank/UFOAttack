@@ -6,3 +6,5 @@
 emmiter_trail = part_emitter_create(global.P_System);
 emitter_freq = .35 ; // lower = faster
 alarm[0] = room_speed * emitter_freq;
+
+//part_type_sprite(global.part_star_emit, spr_glow, false, false, false);

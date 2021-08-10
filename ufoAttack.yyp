@@ -11,7 +11,9 @@
     {"id":{"name":"spr_glow","path":"sprites/spr_glow/spr_glow.yy",},"order":11,},
     {"id":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_ui_border_right","path":"sprites/spr_ui_border_right/spr_ui_border_right.yy",},"order":3,},
     {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},"order":7,},
+    {"id":{"name":"spr_ui_border_left","path":"sprites/spr_ui_border_left/spr_ui_border_left.yy",},"order":2,},
     {"id":{"name":"obj_part_test","path":"objects/obj_part_test/obj_part_test.yy",},"order":1,},
     {"id":{"name":"spr_power_marker","path":"sprites/spr_power_marker/spr_power_marker.yy",},"order":6,},
     {"id":{"name":"spr_ass","path":"sprites/spr_ass/spr_ass.yy",},"order":5,},
@@ -69,7 +71,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":11,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":12,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":13,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/health_bar.yy","order":9,"resourceVersion":"1.0","name":"health_bar","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/ui.yy","order":9,"resourceVersion":"1.0","name":"ui","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/particles.yy","order":11,"resourceVersion":"1.0","name":"particles","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [

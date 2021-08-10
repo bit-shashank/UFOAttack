@@ -1,5 +1,5 @@
 ///enable the viewports 0, 1
-global.num_players = 1;
+global.num_players = 2;
 
 
 view_enabled = true;

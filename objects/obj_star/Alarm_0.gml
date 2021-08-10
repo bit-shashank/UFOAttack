@@ -4,7 +4,7 @@
 
 part_type_direction(global.part_star_emit, 0, 359, 0.001, 0);
 
-part_type_size(global.part_star_emit, 32 - 32 * (1 - current_fuel_ratio), 33 - 33 * (1 - current_fuel_ratio), 0.005, 0);
+part_type_size(global.part_star_emit, 27 - 27 * (1 - current_fuel_ratio), 27- 27 * (1 - current_fuel_ratio), 0.05, 0);
 
 // emitter region are is localized to a point as rotational
 // transformations on the emitter region is not the same as the sprite
