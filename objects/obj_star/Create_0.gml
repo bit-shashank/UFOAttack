@@ -1,6 +1,6 @@
 // setting initial properties
-x = room_width/2;
-y = room_height/2;
+//x = room_width/2;
+//y = room_height/2;
 
 original_x = image_xscale;
 original_y = image_yscale;

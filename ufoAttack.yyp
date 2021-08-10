@@ -28,6 +28,7 @@
     {"id":{"name":"spr_power_flare","path":"sprites/spr_power_flare/spr_power_flare.yy",},"order":13,},
     {"id":{"name":"spr_asteroid","path":"sprites/spr_asteroid/spr_asteroid.yy",},"order":2,},
     {"id":{"name":"spr_bar_border","path":"sprites/spr_bar_border/spr_bar_border.yy",},"order":1,},
+    {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},"order":18,},
     {"id":{"name":"obj_part_controller","path":"objects/obj_part_controller/obj_part_controller.yy",},"order":0,},
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},"order":1,},
     {"id":{"name":"spr_power_invisible","path":"sprites/spr_power_invisible/spr_power_invisible.yy",},"order":10,},
@@ -53,8 +54,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
