@@ -30,7 +30,7 @@ part_type_color3(global.part_star_emit, c_yellow, c_orange, c_red);
 part_type_alpha3(global.part_star_emit, 0.7, 0.4, 0.0);
 part_type_speed(global.part_star_emit, -0.5, 0.5, 0, 0);
 part_type_blend(global.part_star_emit, true);
-part_type_life(global.part_star_emit, 120, 240);
+part_type_life(global.part_star_emit, 60, 90);
 part_type_orientation(global.part_star_emit, 0, 0, 0, 0, 0)
 part_type_sprite(global.part_star_emit, spr_star, false, false, false) // important
 

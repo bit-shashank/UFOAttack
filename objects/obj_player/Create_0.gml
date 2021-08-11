@@ -1,7 +1,7 @@
-show_debug_overlay(true);
+//show_debug_overlay(true);
 
 max_speed=15;
-rot_speed=4;
+rot_speed=3;
 near_star = 0;
 near_star_speed = 0;
 active_powerup=noone;

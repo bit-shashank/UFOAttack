@@ -12,8 +12,8 @@ window_width =  display_get_width();
 view_set_hport(0,window_height);
 view_set_wport(0, window_width);
 
-x = room_width / 2;
-y = room_height / 2;
+//x = room_width / 2;
+//y = room_height / 2;
 
 ///the 2 players to follow
 player1 = noone;
@@ -26,5 +26,6 @@ view_set_camera(0, camera_0);
 
 
 ///some resizing and centering
-window_set_rectangle(50,50,window_width, window_height);
+window_set_position(20,20);
+window_set_rectangle(0,0,window_width, window_height);
 surface_resize(application_surface,window_width, window_height);
