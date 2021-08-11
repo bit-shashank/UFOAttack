@@ -1,4 +1,4 @@
-show_debug_overlay(true);
+//show_debug_overlay(true);
 
 max_speed=15;
 rot_speed=3;

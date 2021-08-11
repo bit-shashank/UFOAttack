@@ -8,7 +8,7 @@ turnRadius = 6;
 maxSpeed = 17;
 acceleration = 0.5;
 speed=1;
-alarm[0]=room_speed*2;
+alarm[0]=room_speed*0.5;
 
  
 with(obj_player){
