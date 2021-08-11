@@ -1,3 +1,4 @@
+if(global.is_paused) exit;
 
 if (instance_exists(targetObj)){
 	image_angle=point_direction(x,y,targetObj.x,targetObj.y);
@@ -7,6 +8,7 @@ if (instance_exists(targetObj)){
 	var w=view_wport[portInd];
 	var h=view_hport[portInd];
 	with(obj_camera){
+
 		other.x=clamp(other.x,vx+100,vx+w-100);
 		other.y=clamp(other.y,vy+100,vy+h-100);
 		if(point_in_rectangle(other.targetObj.x,other.targetObj.y,vx,vy,vx+w,vy+h)){

@@ -11,8 +11,16 @@ fuel_limit = 1000;
 current_fuel_ratio = 1;
 //initially 0.1667 decay rate will give player 100 seconds before sun's health reaches 0
 //every second, sun's health is reduced by 60 * 0.1667 = 10.002
-//every missile fed will restore 15 health
+//every missile fed will restore 15 health 
 star_fuel_decay_rate = 0.3; //0.13;
+
+with(obj_player){
+	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);
+	marker_inst.portInd=view;
+	marker_inst.sprite_index=spr_star_marker;
+	marker_inst.targetObj=other.id;
+}
+
 
 refuel_amount = 30;
 

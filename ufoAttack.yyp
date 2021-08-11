@@ -43,6 +43,7 @@
     {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":7,},
     {"id":{"name":"spr_rocket_marker","path":"sprites/spr_rocket_marker/spr_rocket_marker.yy",},"order":17,},
     {"id":{"name":"obj_boom","path":"objects/obj_boom/obj_boom.yy",},"order":4,},
+    {"id":{"name":"spr_star_marker","path":"sprites/spr_star_marker/spr_star_marker.yy",},"order":19,},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":4,},
     {"id":{"name":"obj_gui_button","path":"objects/obj_gui_button/obj_gui_button.yy",},"order":0,},
     {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},"order":9,},
