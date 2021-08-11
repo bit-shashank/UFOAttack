@@ -26,7 +26,7 @@ if (ui_enabled){
 	}
 	if (keyboard_check_pressed(vk_up)){
 		buttons[button].selected = false;
-		button = (button - 1 < 0) ? button - 1 : 2; 
+		button = (button - 1 < 0) ? 2: button - 1 ; 
 		buttons[button].selected = true;
 	}
 	

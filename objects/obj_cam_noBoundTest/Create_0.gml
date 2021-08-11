@@ -5,16 +5,18 @@ global.num_players = 1;
 view_enabled = true;
 view_set_visible(0, true);
 
-window_height = 600;
-window_width =  800;
+window_height = display_get_height();
+window_width =  display_get_width();
 
 ///viewports 0,1 set side by side
 view_set_hport(0,window_height);
 view_set_wport(0, window_width);
 
+x = room_width / 2;
+y = room_height / 2;
 
 ///the 2 players to follow
-player1 = obj_part_test;
+player1 = noone;
 
 //for 1 player: window_width, for 2 players: window_width/2
 viewport_width = window_width;
