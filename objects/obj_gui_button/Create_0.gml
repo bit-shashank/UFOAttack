@@ -2,6 +2,8 @@
 // Properties
 width = 280;
 height = 80;
+selected = false;
+clicked = false;
 
 text = "Click here";
 
