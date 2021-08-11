@@ -7,7 +7,7 @@ function resume_game() {
 }
 
 function goto_menu() {
-	show_debug_message("Button clicked: " + text);
+	room_goto(rm_menu);
 }
 
 function goto_options() {
@@ -16,12 +16,14 @@ function goto_options() {
 
 function start_game_1p() {
 	global.num_players = 1;
+	room_goto(Room1);
 }
 
 function start_game_2p() {
 	global.num_players = 2;
+	room_goto(Room1);
 }
 
 function goto_tutorial(){
-	show_debug_message("Button clicked: " + text);
+	//aaa
 }
