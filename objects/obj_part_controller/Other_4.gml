@@ -37,11 +37,11 @@ part_type_sprite(global.part_star_emit, spr_star, false, false, false) // import
 
 // boost Particles
 //part_type_shape(global.part_boost_trail, pt_shape_ring);
-part_type_size(global.part_boost_trail, 1, 1, 0, 0);
-part_type_color3(global.part_boost_trail, c_white, c_blue, c_aqua);
-part_type_alpha3(global.part_boost_trail, 0.4, 0.2, 0.0);
+part_type_size(global.part_boost_trail, 0.5,0.5,0, 0);
+//part_type_color3(global.part_boost_trail, c_white, c_blue, c_aqua);
+part_type_alpha2(global.part_boost_trail, 0.4, 0.0);
 part_type_speed(global.part_boost_trail, 0.2, 0.5, 0, 0);
 part_type_blend(global.part_boost_trail, true);
-part_type_life(global.part_boost_trail, 5, 10);
+part_type_life(global.part_boost_trail, 5, 5);
 part_type_orientation(global.part_boost_trail, 0, 0, 0, 0, 0)
 part_type_sprite(global.part_boost_trail, spr_player, false, false, false) // important
