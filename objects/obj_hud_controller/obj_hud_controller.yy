@@ -28,7 +28,7 @@
     "path": "folders/Objects/gui.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_hud_star_fuel",
+  "name": "obj_hud_controller",
   "tags": [],
   "resourceType": "GMObject",
 }

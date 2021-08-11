@@ -1,6 +1,7 @@
 
 var turn_speed = rot_speed - near_star;
-
+//hspeed
+//vspeed
 if keyboard_check(vk_left){
    image_angle += turn_speed;
 }
@@ -11,6 +12,12 @@ if keyboard_check(vk_right){
 
 direction=image_angle+90;
 speed= max_speed - near_star_speed;
+
+
+// scroll background as well to give illusion of hyper speed
+layer_hspeed(bg_id , -hspeed/2);
+layer_vspeed(bg_id , -vspeed/2);
+
 
 // if not close to star, set radius penalty to 0
 near_star = 0;
