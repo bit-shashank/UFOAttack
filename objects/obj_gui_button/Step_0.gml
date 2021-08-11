@@ -7,6 +7,6 @@ hover = lerp(hover, _hover, 0.1);
 y = lerp(y, ystart - _hover * 8, 0.1);
 
 // Click
-if (_click && script >= 0) {
+if ((_click || clicked) && script >= 0) {
 	script_execute(script);
 }

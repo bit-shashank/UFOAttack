@@ -17,7 +17,6 @@ near_star = 0;
 near_star_speed = 0;
 // particles 
 part_type_direction(global.part_fire_trail1, image_angle - 90 - 15, image_angle - 90 + 15, 0, 0);
-
 // emitter region are is localized to a point as rotational
 // transformations on the emitter region is not the same as the sprite
 // updating region with every frame to track the object
