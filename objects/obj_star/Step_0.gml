@@ -1,3 +1,4 @@
+if(global.is_paused) exit;
 
 global.star_fuel = max(0, global.star_fuel - star_fuel_decay_rate);
 current_fuel_ratio = global.star_fuel / fuel_limit;

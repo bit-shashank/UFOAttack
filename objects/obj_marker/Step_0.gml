@@ -1,3 +1,4 @@
+if(global.is_paused) exit;
 
 if (instance_exists(targetObj)){
 	image_angle=point_direction(x,y,targetObj.x,targetObj.y);

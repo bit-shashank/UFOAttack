@@ -1,3 +1,8 @@
+if(global.is_paused){ 
+	speed=0;
+	exit;
+}
+
 
 var turn_speed = rot_speed - near_star;
 

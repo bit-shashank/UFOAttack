@@ -1,3 +1,5 @@
+if(global.is_paused) exit;
+
 var turn_speed = turnRadius - is_near_star;
 
 speed=min(speed+acceleration,maxSpeed);
