@@ -2,7 +2,6 @@
 // Ass launches 3 rockets at fixed intervals
 
 // Angle offsets of ass launch pads
-if(global.is_paused) exit;
 angles=[30,150,270]
 
 
