@@ -5,8 +5,8 @@ is_activated=false;
 is_near_star = 0;
 
 turnRadius = 5;
-maxSpeed = 17;
-acceleration = 0.5;
+maxSpeed = 15;
+acceleration = 1;
 speed=1;
 alarm[0]=room_speed*0.5;
 

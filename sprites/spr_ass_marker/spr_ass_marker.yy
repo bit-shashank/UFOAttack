@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Markers",
+    "path": "folders/Sprites/Markers.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_ass_marker",

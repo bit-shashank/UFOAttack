@@ -25,5 +25,5 @@ function start_game_2p() {
 }
 
 function goto_tutorial(){
-	//aaa
+	room_goto(rm_tutorial);
 }

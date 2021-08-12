@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Powerups",
+    "path": "folders/Sprites/Powerups.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_power_health",
