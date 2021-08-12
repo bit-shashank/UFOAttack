@@ -3,9 +3,11 @@
 
 if(keyboard_check_pressed(vk_escape)){
     global.is_paused = !global.is_paused;
+	
 }
 
 if(global.is_paused){
+	audio_pause_sound(sfx_propulsion1);
 	ui_enabled = true;
     instance_deactivate_all(1);
 	instance_activate_object(obj_gui_button);
@@ -14,6 +16,7 @@ if(global.is_paused){
     ui_enabled = false;
 	instance_activate_all();
 	event_user(1);
+	//audio_play_sound(sfx_propulsion1, 1, 1);
 }
 
 if (ui_enabled){

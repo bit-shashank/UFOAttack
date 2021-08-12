@@ -5,16 +5,20 @@ life= 3;
 invincible_time = 20;
 last_hit = invincible_time;
 
-max_speed=15;
-rot_speed=3;
+max_speed=13;
+rot_speed=2.5;
 near_star = 0;
 near_star_speed = 0;
+
 active_powerup=noone;
 powerup_duration=3;
 view=0;
 var spawner=instance_create_layer(x,y,"Instances",obj_ass_spawner);
 spawner.target= id;
  
+
+// thruster sound
+audio_play_sound(sfx_propulsion1, 1, 1);
 
 
 // particle emitter 
