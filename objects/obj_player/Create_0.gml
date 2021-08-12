@@ -5,7 +5,7 @@ global.player1_health = 3;
 invincible_time = 20;
 last_hit = invincible_time;
 
-max_speed=10;
+max_speed=12;
 rot_speed=3;
 near_star = 0;
 near_star_speed = 0;

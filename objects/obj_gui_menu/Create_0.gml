@@ -17,7 +17,7 @@ buttons[0] = create_button(room_w/2 - _width/2, room_h/2 - _height/2, _width,
 buttons[0].selected = true;
 
 buttons[1] = create_button(room_w/2 - _width/2, room_h/2 + _height/2 + 40, _width,
-								_height, "Two Player", start_game_2p);
+								_height, "Two Player (WIP)", start_game_2p);
 								
 buttons[2] = create_button(room_w/2 - _width/2, room_h/2 + (_height * 2) + 40 , _width,
 								_height, "How to Play", goto_tutorial);
