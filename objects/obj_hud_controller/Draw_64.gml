@@ -9,23 +9,17 @@ else ratio = 0
 /////////////////// PLAYER HEALTH
 
 //  player 1
-draw_sprite_ext(spr_heart, 0, heart_x, heart_y, 1, 1, 0, c_white, 1);
+draw_sprite_ext(spr_heart, 0, heart_x, heart_y, 1.5, 1.5, 0, c_white, 1);
 
-draw_text_transformed_color(heart_x + 20, heart_y - 12, "x", 1.5, 1.5, 0,
-			c_white, c_white, c_white, c_orange, 1);
-
-draw_text_transformed_color(heart_x + 45, heart_y - 12 ,string(global.player1_health),
-			1.5, 1.5, 0, c_white, c_white, c_white, c_orange, 1);
+draw_text_transformed_color(heart_x - 11, heart_y - 20 ,string(global.player1_health),
+			2, 2, 0, c_white, c_white, c_white, c_orange, 1);
 
 // player 2
 if (global.num_players > 1){
-	draw_sprite_ext(spr_heart, 0,w_width/2 + heart_x, heart_y, 1, 1, 0, c_white, 1);
+draw_sprite_ext(spr_heart, 0, w_width - heart_x, heart_y, 1.5, 1.5, 0, c_white, 1);
 
-	draw_text_transformed_color(w_width/2 + heart_x + 20, heart_y - 12, "X", 1, 1, 0,
-				c_white, c_white, c_white, c_orange, 1);
-
-	draw_text_transformed_color(w_width/2 + heart_x + 45, heart_y ,string(global.player1_health),
-				1, 1, 0, c_white, c_white, c_white, c_orange, 1);
+draw_text_transformed_color(w_width - heart_x - 11, heart_y - 20 ,string(global.player1_health),
+			2, 2, 0, c_white, c_white, c_white, c_orange, 1);
 			
 }
 
