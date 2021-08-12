@@ -3,7 +3,7 @@
 // make invuln
 if (last_hit == invincible_time){
 	
-	 //life -= 1;
+	 life -= 1;
 	
 	if (life <= 0){
 		instance_destroy();
