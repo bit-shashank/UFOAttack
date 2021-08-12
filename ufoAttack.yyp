@@ -42,7 +42,7 @@
     {"id":{"name":"spr_asteroid","path":"sprites/spr_asteroid/spr_asteroid.yy",},"order":2,},
     {"id":{"name":"spr_bar_border","path":"sprites/spr_bar_border/spr_bar_border.yy",},"order":1,},
     {"id":{"name":"obj_game_control","path":"objects/obj_game_control/obj_game_control.yy",},"order":14,},
-    {"id":{"name":"obj_part_controller","path":"objects/obj_part_controller/obj_part_controller.yy",},"order":17,},
+    {"id":{"name":"obj_part_controller","path":"objects/obj_part_controller/obj_part_controller.yy",},"order":2,},
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},"order":1,},
     {"id":{"name":"spr_power_invisible","path":"sprites/spr_power_invisible/spr_power_invisible.yy",},"order":2,},
     {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":7,},
@@ -73,10 +73,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},},
+    {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
   ],
   "Folders": [
