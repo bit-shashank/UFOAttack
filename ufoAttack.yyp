@@ -39,7 +39,7 @@
     {"id":{"name":"spr_asteroid","path":"sprites/spr_asteroid/spr_asteroid.yy",},"order":2,},
     {"id":{"name":"spr_bar_border","path":"sprites/spr_bar_border/spr_bar_border.yy",},"order":1,},
     {"id":{"name":"obj_game_control","path":"objects/obj_game_control/obj_game_control.yy",},"order":14,},
-    {"id":{"name":"obj_part_controller","path":"objects/obj_part_controller/obj_part_controller.yy",},"order":2,},
+    {"id":{"name":"obj_part_controller","path":"objects/obj_part_controller/obj_part_controller.yy",},"order":17,},
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},"order":1,},
     {"id":{"name":"spr_power_invisible","path":"sprites/spr_power_invisible/spr_power_invisible.yy",},"order":2,},
     {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":7,},

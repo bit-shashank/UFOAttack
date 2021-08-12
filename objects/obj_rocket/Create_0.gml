@@ -10,8 +10,9 @@ acceleration = 1;
 speed=1;
 alarm[0]=room_speed*0.5;
 
-target_offset_x = irandom_range(-2, 2);
-target_offset_y = irandom_range(-2, 2);
+rocket_inaccuracy = 50;
+target_offset_x = irandom_range(- rocket_inaccuracy , rocket_inaccuracy );
+target_offset_y = irandom_range(- rocket_inaccuracy , rocket_inaccuracy );
  
 with(obj_player){
 	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);
