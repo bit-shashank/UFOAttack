@@ -16,9 +16,8 @@ view_set_hport(1,window_height);
 view_set_wport(1, window_width/2);
 }
 
-///the 2 players to follow
-player1 = obj_player;
-player2 = global.num_players > 1 ? obj_player : noone;
+player1=instance_find(obj_player,0);
+player2=instance_find(obj_player,1);
 
 //for 1 player: window_width, for 2 players: window_width/2
 viewport_width = global.num_players > 1 ? window_width/2: window_width;

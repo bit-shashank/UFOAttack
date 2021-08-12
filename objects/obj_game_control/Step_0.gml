@@ -3,7 +3,6 @@
 
 if(keyboard_check_pressed(vk_escape)){
     global.is_paused = !global.is_paused;
-
 }
 
 if(global.is_paused){
@@ -33,5 +32,4 @@ if (ui_enabled){
 	if (keyboard_check_pressed(vk_enter) || keyboard_check_pressed(vk_space)){
 		buttons[button].clicked = !buttons[button].clicked;
 	}
-
 }

@@ -2,9 +2,9 @@
 
 // make invuln
 if (last_hit == invincible_time){
-	global.player1_health -= 1;
+	 life-= 1;
 	
-	if (global.player1_health <= 0){
+	if (life <= 0){
 		instance_destroy();
 	}
 	last_hit = 0;

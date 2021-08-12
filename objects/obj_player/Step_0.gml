@@ -2,11 +2,11 @@
 var turn_speed = rot_speed - near_star;
 //hspeed
 //vspeed
-if keyboard_check(vk_left){
+if keyboard_check(left_key){
    image_angle += turn_speed;
 }
 
-if keyboard_check(vk_right){
+if keyboard_check(right_key){
 	image_angle -= turn_speed;
 }
 
