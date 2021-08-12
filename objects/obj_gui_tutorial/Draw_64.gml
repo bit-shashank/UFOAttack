@@ -15,3 +15,4 @@ draw_set_halign(fa_center);
 draw_text(view_wport[0]/2, 100, text);
 	
 draw_set_halign(fa_left);
+draw_set_color(c_white);

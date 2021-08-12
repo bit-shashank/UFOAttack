@@ -3,7 +3,7 @@ var turn_speed = turnRadius - is_near_star;
 
 
 if (instance_exists(target) and is_activated){
-	var pointDir=point_direction(x,y,target.x,target.y);
+	var pointDir=point_direction(x,y,target.x + target_offset_x,target.y + + target_offset_y);
 	image_angle+=sin(degtorad(pointDir-image_angle))*turn_speed;
 	//direction=image_angle; 
 }

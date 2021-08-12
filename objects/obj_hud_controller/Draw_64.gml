@@ -9,18 +9,19 @@ else ratio = 0
 /////////////////// PLAYER HEALTH
 
 //  player 1
+if(instance_exists(player1)){
 draw_sprite_ext(spr_heart, 0, heart_x, heart_y, 1.5, 1.5, 0, c_white, 1);
 
-draw_text_transformed_color(heart_x - 11, heart_y - 20 ,string(global.player1_health),
+draw_text_transformed_color(heart_x - 11, heart_y - 20 ,string(player1.life),
 			2, 2, 0, c_white, c_white, c_white, c_orange, 1);
+}
 
 // player 2
-if (global.num_players > 1){
+if (instance_exists(player2)){
 draw_sprite_ext(spr_heart, 0, w_width - heart_x, heart_y, 1.5, 1.5, 0, c_white, 1);
 
-draw_text_transformed_color(w_width - heart_x - 11, heart_y - 20 ,string(global.player1_health),
-			2, 2, 0, c_white, c_white, c_white, c_orange, 1);
-			
+draw_text_transformed_color(w_width - heart_x - 11, heart_y - 20 ,string(player2.life),
+			2, 2, 0, c_white, c_white, c_white, c_orange, 1);	
 }
 
 
