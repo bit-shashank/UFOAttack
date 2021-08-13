@@ -3,5 +3,4 @@
 
 targetObj=noone;
 portInd=0;
-
 clamp_rad=300;
