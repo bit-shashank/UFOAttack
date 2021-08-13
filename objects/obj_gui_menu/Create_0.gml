@@ -4,6 +4,8 @@
 global.vol_sfx = 1;
 global.vol_bgm = 1;
 
+readHighScore();
+
 button = 0;
 
 var _width = 300;
