@@ -17,6 +17,7 @@ speed= max_speed - near_star_speed;
 // reset invulnerability duration
 last_hit = min(last_hit + 1, invincible_time);
 
+pscore += global.diff_scale;
 
 // if not close to star, set radius penalty to 0
 near_star = 0;

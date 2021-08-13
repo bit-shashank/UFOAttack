@@ -8,4 +8,5 @@ with(other){
 	}
 	global.star_fuel = min(global.star_fuel + other.refuel_amount, 1000);
 	
+	target.pscore += 50
 }

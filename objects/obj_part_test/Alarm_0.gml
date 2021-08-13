@@ -13,7 +13,9 @@ part_emitter_region(global.P_System, emmiter_trail,
                     x , x  , y , y , ps_shape_rectangle, 
                     ps_distr_linear);
 
-part_emitter_burst(global.P_System, emmiter_trail, global.part_fire_trail2, 1);
+part_type_direction(global.part_blue_trail, image_angle - 90 ,image_angle - 90 , 0, 0);
+part_type_orientation(global.part_blue_trail, image_angle + 90, image_angle + 90, 0, 0, 0)
+part_emitter_burst(global.P_System, emmiter_trail, global.part_blue_trail, 1);
 
 
 alarm[0] = (room_speed * emitter_freq);

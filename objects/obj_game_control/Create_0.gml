@@ -2,6 +2,10 @@
 // You can write your code in this editor
 
 global.is_paused = false;
+global.difficulty = 0;
+global.time = 0;
+global.diff_scale = 1 + (0.001 * global.difficulty)
+
 screenshot = -1;
 ui_enabled = false;
 button = 0;

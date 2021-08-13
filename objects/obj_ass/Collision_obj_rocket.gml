@@ -7,5 +7,7 @@ with(other){
 		instance_create_layer(x,y,"Instances",obj_boom);
 		instance_destroy();
 		other.hp-=20;
+		
+		target.pscore += 20;
 	}
 }

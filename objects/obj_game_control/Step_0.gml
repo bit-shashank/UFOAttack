@@ -1,13 +1,17 @@
 /// @description pause/unpause
 // You can write your code in this editor
 
+global.time += 1;
+global.difficulty += global.diff_scale;
+global.diff_scale = 1 + (0.0001 * global.difficulty)
+
 if(keyboard_check_pressed(vk_escape) ){
     global.is_paused = !global.is_paused;
 	
 }
 
 if(global.is_paused){
-	audio_pause_sound(sfx_propulsion1);
+
 	ui_enabled = true;
     instance_deactivate_all(1);
 	instance_activate_object(obj_gui_button);
