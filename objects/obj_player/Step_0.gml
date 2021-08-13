@@ -14,6 +14,8 @@ direction=image_angle+90;
 speed= max_speed - near_star_speed;
 
 
+
+
 // reset invulnerability duration
 last_hit = min(last_hit + 1, invincible_time);
 
@@ -33,3 +35,6 @@ part_emitter_region(global.P_System, emmiter_trail,
                     ps_distr_linear);
 
 part_emitter_burst(global .P_System, emmiter_trail, global.part_fire_trail1, 1);
+
+
+

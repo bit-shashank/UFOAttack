@@ -8,39 +8,13 @@ function in_view(){
 	var _y = argument[0];
 	var pad = argument[0];
 	
-	if (global.num_players == 1 ){
-	
-		vw = view_wport[0];
-		//vh = view
-	
-	
-	
+	with(obj_player){
+		var vx=camera_get_view_x(view_camera[view]);
+		var vy=camera_get_view_y(view_camera[view]);
+		var vw=view_wport[view];
+		var vh=view_hport[view];
+		if point_in_rectangle(_x,_y,vx-pad,vy-pad,vx+vw+pad,vy+vh+pad)
+			return true;
 	}
-	
-}
-
-function create_bzautton() {
-
-	// Arguments
-	var _x = argument[0];
-	var _y = argument[1];
-	var _width = argument[2];
-	var _height = argument[3];
-	var _text = argument[4];
-	var _script = argument[5];
-
-	// Create button
-	var _button = instance_create_layer(_x, _y, "Instances", obj_gui_button);
-
-	// Set values
-	with (_button) {
-		width = _width;
-		height = _height;
-		text = _text;
-		script = _script;
-	}
-
-	return _button;
-
-
+	return false;
 }
