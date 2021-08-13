@@ -1,11 +1,11 @@
 show_debug_overlay(true);
 
-life= 3;
+life= 5;
 
 invincible_time = 20;
 last_hit = invincible_time;
 
-max_speed=13;
+max_speed= 15;
 rot_speed=2.5;
 near_star = 0;
 near_star_speed = 0;
