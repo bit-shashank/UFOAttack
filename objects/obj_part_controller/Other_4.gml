@@ -2,8 +2,10 @@
 
 // Fire trail 1
 part_type_shape(global.part_fire_trail1, pt_shape_explosion);
-part_type_size(global.part_fire_trail1, 0.4, 0.7, -0.01,0);
-part_type_color2(global.part_fire_trail1,c_orange, c_red);
+part_type_size(global.part_fire_trail1, 0.2, 0.4, -0.01,0);
+//part_type_color2(global.part_fire_trail1,c_orange, c_red); // color
+part_type_color2(global.part_fire_trail1,c_white, c_black); // b & w
+
 part_type_alpha3(global.part_fire_trail1, 0.5, 1, 0);
 part_type_speed(global.part_fire_trail1, 1, 2, -0.10, 0);
 part_type_blend(global.part_fire_trail1, true);
@@ -15,7 +17,9 @@ part_type_life(global.part_fire_trail1, 5, 10);
 // Fire trail 2
 part_type_shape(global.part_fire_trail2, pt_shape_flare);
 part_type_size(global.part_fire_trail2, 0.2, 0.2, 0.05,1);
-part_type_color2(global.part_fire_trail2,c_orange, c_red);
+//part_type_color2(global.part_fire_trail2,c_orange, c_red); // color
+part_type_color2(global.part_fire_trail1,c_white, c_black); // b & w
+
 part_type_alpha3(global.part_fire_trail2, 0.8, 1, 0);
 part_type_speed(global.part_fire_trail2, 0.1, 1, -0.10, 0);
 part_type_blend(global.part_fire_trail2, true);

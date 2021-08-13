@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "player",
-    "path": "sprites/player/player.yy",
+    "name": "spr_player_1_dark",
+    "path": "sprites/spr_player_1_dark/spr_player_1_dark.yy",
   },
   "solid": false,
   "visible": true,

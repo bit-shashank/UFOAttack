@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_player_hit",
-    "path": "sprites/spr_player_hit/spr_player_hit.yy",
+    "name": "spr_player_1_dark_hit",
+    "path": "sprites/spr_player_1_dark_hit/spr_player_1_dark_hit.yy",
   },
   "solid": false,
   "visible": true,
