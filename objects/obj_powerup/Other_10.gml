@@ -3,17 +3,15 @@
 
 switch(type){
 	case POWERUPS.health:
-		sprite_index=spr_power_health
-	case POWERUPS.speed:
-		sprite_index=spr_power_speed;
+		sprite_index=spr_powerup_health_dark;
 		break;
-	case POWERUPS.flare:
-		sprite_index=spr_power_flare;
+	case POWERUPS.boost:
+		sprite_index=spr_powerup_boost_dark;
 		break;
-	case POWERUPS.shock:
-		sprite_index=spr_power_shock;
-		break;
-	case POWERUPS.invisible:
-		sprite_index=spr_power_invisible;
+	case POWERUPS.shield:
+		sprite_index=spr_powerup_shield_dark;
 		break;
 }
+
+
+
