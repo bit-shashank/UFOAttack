@@ -1,5 +1,6 @@
  /// @description Insert description here
 // You can write your code in this editor
+if(is_activated==false)exit;
 instance_create_layer(x,y,"Instances",obj_boom)
 instance_destroy();
 
