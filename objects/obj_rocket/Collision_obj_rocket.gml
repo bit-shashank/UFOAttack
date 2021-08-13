@@ -14,4 +14,7 @@ with(obj_player){
 		shake_inst.shake_pow=5;
 		shake_inst.shake_time=0.5;
 	}
+	pscore += 10;
+	
+	//if (target != other.target) pscore += 90;
 }

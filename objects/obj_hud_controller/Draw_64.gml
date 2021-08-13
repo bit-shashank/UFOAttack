@@ -6,7 +6,7 @@ if (instance_exists(star))
 else ratio = 0
 
 /////////////////// DEBUGGING
-
+if(instance_exists(player1)){
 draw_text_transformed_color(heart_x + 20, heart_y + 20 , "diff " +  string(global.difficulty),
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
@@ -16,8 +16,10 @@ draw_text_transformed_color(heart_x + 20, heart_y + 40 , "d_scale " +  string(gl
 draw_text_transformed_color(heart_x + 20, heart_y + 60 , "time "+  string(global.time) + " = " + string(global.time/60) +"s",
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
+draw_text_transformed_color(heart_x + 20, heart_y + 80 , "score "+  string(player1.pscore) ,
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-
+}
 
 /////////////////// PLAYER HEALTH
 

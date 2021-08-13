@@ -1,6 +1,7 @@
 show_debug_overlay(true);
 
 life= 5;
+pscore = 0;
 
 invincible_time = 20;
 last_hit = invincible_time;
