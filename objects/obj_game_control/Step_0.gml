@@ -1,4 +1,4 @@
-/// @description pause/unpause
+ /// @description pause/unpause
 // You can write your code in this editor
 
 global.time += 1;
@@ -39,4 +39,15 @@ if (ui_enabled){
 	if (keyboard_check_pressed(vk_enter) || keyboard_check_pressed(vk_space)){
 		buttons[button].clicked = !buttons[button].clicked;
 	}
+}
+
+if(instance_exists(player1)){
+	global.points=player1.pscore;
+}
+if(instance_exists(player2)){
+	global.points=max(global.points,player2.pscore);
+}
+if(instance_number(obj_player)==0){
+	saveScore();
+	goto_menu();
 }

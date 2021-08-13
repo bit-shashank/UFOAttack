@@ -1,4 +1,4 @@
-/// @description Create UI
+ /// @description Create UI
 var _width = 300;
 var _height = 100;
 
