@@ -3,14 +3,11 @@
 
 enum POWERUPS{
 	health,
-	speed,
-	flare,
-	shock,
-	invisible,
+	boost,
 	shield,
 };
 
-type= POWERUPS.speed;
+type= POWERUPS.health;
 
 //with(obj_player){
 //	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);

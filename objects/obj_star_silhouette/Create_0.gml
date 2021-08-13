@@ -2,7 +2,7 @@
 // You can write your code in this editor
 //image_alpha = 0.5;
 //image_blend = c_yellow;
-
+image_alpha = 0.7
 with (obj_star){
 
 	other.x = x;

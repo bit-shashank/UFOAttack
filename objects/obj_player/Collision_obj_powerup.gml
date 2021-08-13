@@ -1,25 +1,23 @@
 /// @description 
 // You can write your code in this editor
 audio_play_sound(sfx_sun_crit113, 1, 0);
+
+if(active_powerup){
+	event_user(1);
+}
 active_powerup=other.type;
 switch(other.type){
-	case POWERUPS.speed:
+	case POWERUPS.boost:
 		powerup_duration=5;
-		max_speed=18;
+		max_speed+=3;
 		break;
 			
 	case POWERUPS.health:
-		life += 1;
+		life = min (life +1, 4);
 		break;	
 	
-	case POWERUPS.invisible:
-		powerup_duration=2;
-		with(obj_rocket){
-			target=noone;
-		}
-		break;
-		
-	case POWERUPS.shock:
+	case POWERUPS.shield:
+		powerup_duration=10;
 		break;
 }
 alarm[0]=room_speed*powerup_duration;

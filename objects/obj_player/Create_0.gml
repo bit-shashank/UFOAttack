@@ -1,6 +1,6 @@
-show_debug_overlay(true);
+//show_debug_overlay(true);
 
-life= 5;
+life= 4;
 pscore = 0;
 
 invincible_time = 20;

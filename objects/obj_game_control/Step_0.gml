@@ -47,8 +47,7 @@ if(instance_exists(player1)){
 if(instance_exists(player2)){
 	global.points=max(global.points,player2.pscore);
 }
-
-if(instance_number(obj_player)==0){
+if(instance_number(obj_player)==0 and ! global.is_paused){
 	saveScore();
 	goto_menu();
 }

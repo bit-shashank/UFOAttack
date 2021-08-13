@@ -3,6 +3,9 @@
 
 star = obj_star;
 
+health_sprites = [health_0bars_dark, health_1bars_dark, health_2bars_dark, health_3bars_dark, health_4bars_dark, 
+					health_0bars_dark];
+
 w_width = window_get_width();
 w_height = window_get_height();
 

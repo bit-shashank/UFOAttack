@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-audio_play_sound(sfx_missile_feed, 1, 0);
+audio_play_sound(sfx_missile_feed2, 1, 0);
 
 with(other){
 	if (is_activated){
