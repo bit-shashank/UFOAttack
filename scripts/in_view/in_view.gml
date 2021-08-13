@@ -10,11 +10,13 @@ function in_view(){
 
 	
 	with(obj_player){
-		var vx=camera_get_view_x(view_camera[view]);
-		var vy=camera_get_view_y(view_camera[view]);
-		var vw=view_wport[view];
-		var vh=view_hport[view];
+		var cam = view_camera[view];
 		
+		var vx=camera_get_view_x(cam);
+		var vy=camera_get_view_y(cam);
+		var vw= camera_get_view_width(cam);
+		var vh= camera_get_view_height(cam);
+
 		if point_in_rectangle(_x,_y,vx-pad,vy-pad,vx+vw+pad,vy+vh+pad)
 			return true;
 	}

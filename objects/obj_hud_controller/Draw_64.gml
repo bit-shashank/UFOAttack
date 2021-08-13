@@ -7,25 +7,24 @@ else ratio = 0
 
 /////////////////// DEBUGGING
 if(instance_exists(player1)){
-draw_text_transformed_color(heart_x + 20, heart_y + 20 , "diff " +  string(global.difficulty),
+draw_text_transformed_color(heart_x + 40, heart_y + 20 , "diff " +  string(global.difficulty),
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-draw_text_transformed_color(heart_x + 20, heart_y + 40 , "d_scale " +  string(global.diff_scale),
+draw_text_transformed_color(heart_x + 40, heart_y + 40 , "d_scale " +  string(global.diff_scale),
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 			
-draw_text_transformed_color(heart_x + 20, heart_y + 60 , "time "+  string(global.time) + " = " + string(global.time/60) +"s",
+draw_text_transformed_color(heart_x + 40, heart_y + 60 , "time "+  string(global.time) + " = " + string(global.time/60) +"s",
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-draw_text_transformed_color(heart_x + 20, heart_y + 80 , "score "+  string(player1.pscore) ,
+draw_text_transformed_color(heart_x + 40, heart_y + 80 , "score "+  string(player1.pscore) ,
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-
-draw_text_transformed_color(heart_x + 20, heart_y + 100 , "ASS IN SIGHT: " ,
+draw_text_transformed_color(heart_x + 40, heart_y + 100 , "ASS IN SIGHT:    " ,
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-with(obj_star){
+with(obj_ass){
 	if instance_exists(self)
-		draw_text_transformed_color(other.heart_x + 150, other.heart_y + 100 , string(in_view(x, y, 40))  ,
+		draw_text_transformed_color(other.heart_x + 150, other.heart_y + 100 , string(in_view(x, y, 500))  ,
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 }
 
@@ -36,7 +35,7 @@ with(obj_star){
 //  player 1
 if(instance_exists(player1)){
 	var _spr = other.health_sprites[player1.life];
-draw_sprite_ext(_spr, 0, heart_x, heart_y, 1.5, 1.5, 0, c_white, 1);
+draw_sprite_ext(_spr, 0, heart_x, heart_y, 2, 2, 0, c_white, 1);
 }
 
 // player 2

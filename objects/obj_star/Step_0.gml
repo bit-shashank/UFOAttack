@@ -19,3 +19,4 @@ if (current_fuel_ratio <= 0.01){
 if (global.star_isCritical) {
 
 }
+

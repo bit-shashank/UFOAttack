@@ -1,4 +1,4 @@
-//show_debug_overlay(true);
+show_debug_overlay(true);
 
 life= 4;
 pscore = 0;
