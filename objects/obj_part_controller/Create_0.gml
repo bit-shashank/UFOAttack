@@ -9,3 +9,4 @@ global.part_fire_trail1 = part_type_create();
 global.part_fire_trail2 = part_type_create();
 global.part_star_emit = part_type_create();
 global.part_boost_trail = part_type_create();
+global.part_blue_trail = part_type_create();

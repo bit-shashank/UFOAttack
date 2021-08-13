@@ -7,11 +7,11 @@ rot_speed=0.2;
 spawn_time = 7;
 alarm[0] =  (room_speed * spawn_time);
 
-with(obj_player){
-	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);
-	marker_inst.portInd=view;
-	marker_inst.sprite_index=spr_ass_marker;
-	marker_inst.targetObj=other.id;
-}
+//with(obj_player){
+//	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);
+//	marker_inst.portInd=view;
+//	marker_inst.sprite_index=spr_ass_marker;
+//	marker_inst.targetObj=other.id;
+//}
 
 

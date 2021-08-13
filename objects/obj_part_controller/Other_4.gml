@@ -46,3 +46,13 @@ part_type_life(global.part_boost_trail, 5, 5);
 part_type_orientation(global.part_boost_trail, 0, 0, 0, 0, 0)
 part_type_sprite(global.part_boost_trail, spr_player, false, false, false) // important
 
+
+// Blue Double Trail 
+part_type_shape(global.part_blue_trail, pt_shape_line);
+part_type_size(global.part_blue_trail, 0.6, 0.8, 0.001, 0);
+part_type_color3(global.part_blue_trail, c_blue, c_white, c_blue);
+part_type_alpha3(global.part_blue_trail, 0.5, 0.8, 1);
+part_type_speed(global.part_blue_trail, 2, 2, 0.1, 0);
+part_type_blend(global.part_blue_trail, false);
+part_type_life(global.part_blue_trail, 10, 15);
+//part_type_orientation(global.part_fire_trail1, 0, 359, 10, 0, 0)

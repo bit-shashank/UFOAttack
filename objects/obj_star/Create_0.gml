@@ -14,12 +14,12 @@ current_fuel_ratio = 1;
 //every missile fed will restore 15 health 
 star_fuel_decay_rate = 0.2; //0.13;
 
-with(obj_player){
-	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);
-	marker_inst.portInd=view;
-	marker_inst.sprite_index=spr_star_marker;
-	marker_inst.targetObj=other.id;
-}
+//with(obj_player){
+//	marker_inst=instance_create_layer(x,y,"Instances",obj_marker);
+//	marker_inst.portInd=view;
+//	marker_inst.sprite_index=spr_star_marker;
+//	marker_inst.targetObj=other.id;
+//}
 
 
 refuel_amount = 30;

@@ -6,7 +6,7 @@ invincible_time = 20;
 last_hit = invincible_time;
 
 max_speed= 15;
-rot_speed=2.5;
+rot_speed= 3;
 near_star = 0;
 near_star_speed = 0;
 
@@ -18,7 +18,7 @@ spawner.target= id;
  
 
 // thruster sound
-audio_play_sound(sfx_propulsion1, 1, 1);
+audio_play_sound(sfx_hum, 1, 1);
 
 
 // particle emitter 

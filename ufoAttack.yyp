@@ -1,7 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"sfx_hum","path":"sounds/sfx_hum/sfx_hum.yy",},"order":14,},
     {"id":{"name":"spr_power_shock","path":"sprites/spr_power_shock/spr_power_shock.yy",},"order":3,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":3,},
+    {"id":{"name":"in_view","path":"scripts/in_view/in_view.yy",},"order":3,},
     {"id":{"name":"spr_star_fuel_1","path":"sprites/spr_star_fuel_1/spr_star_fuel_1.yy",},"order":0,},
     {"id":{"name":"sfx_ship_destruct","path":"sounds/sfx_ship_destruct/sfx_ship_destruct.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -28,6 +30,7 @@
     {"id":{"name":"marker_missile","path":"sprites/marker_missile/marker_missile.yy",},"order":26,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":2,},
     {"id":{"name":"obj_gui_menu","path":"objects/obj_gui_menu/obj_gui_menu.yy",},"order":1,},
+    {"id":{"name":"sfx_sun_crit113","path":"sounds/sfx_sun_crit113/sfx_sun_crit113.yy",},"order":13,},
     {"id":{"name":"create_button","path":"scripts/create_button/create_button.yy",},"order":1,},
     {"id":{"name":"spr_power_marker","path":"sprites/spr_power_marker/spr_power_marker.yy",},"order":2,},
     {"id":{"name":"spr_ass","path":"sprites/spr_ass/spr_ass.yy",},"order":5,},
@@ -87,8 +90,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_studio","path":"rooms/rm_studio/rm_studio.yy",},},
     {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
