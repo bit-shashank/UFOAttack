@@ -10,6 +10,11 @@ function goto_menu() {
 	room_goto(rm_menu);
 }
 
+function restart_game(){
+	//room_goto(rm_menu);
+	room_restart()
+}
+
 function goto_options() {
 	show_debug_message("Button clicked: " + text);
 }

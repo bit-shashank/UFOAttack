@@ -5,7 +5,6 @@
     {"id":{"name":"spr_star_fuel_1","path":"sprites/spr_star_fuel_1/spr_star_fuel_1.yy",},"order":0,},
     {"id":{"name":"sfx_ship_destruct","path":"sounds/sfx_ship_destruct/sfx_ship_destruct.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
-    {"id":{"name":"obj_sfx_controller","path":"objects/obj_sfx_controller/obj_sfx_controller.yy",},"order":0,},
     {"id":{"name":"obj_cam_noBoundTest","path":"objects/obj_cam_noBoundTest/obj_cam_noBoundTest.yy",},"order":1,},
     {"id":{"name":"obj_gui_tutorial","path":"objects/obj_gui_tutorial/obj_gui_tutorial.yy",},"order":3,},
     {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":8,},
@@ -13,7 +12,6 @@
     {"id":{"name":"spr_boom","path":"sprites/spr_boom/spr_boom.yy",},"order":3,},
     {"id":{"name":"obj_shake","path":"objects/obj_shake/obj_shake.yy",},"order":10,},
     {"id":{"name":"sfx_ui_select2","path":"sounds/sfx_ui_select2/sfx_ui_select2.yy",},"order":7,},
-    {"id":{"name":"obj_sfx_bgm","path":"objects/obj_sfx_bgm/obj_sfx_bgm.yy",},"order":1,},
     {"id":{"name":"spr_glow","path":"sprites/spr_glow/spr_glow.yy",},"order":8,},
     {"id":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},"order":1,},
     {"id":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},"order":4,},
@@ -115,7 +113,6 @@
     {"folderPath":"folders/Objects/gui.yy","order":15,"resourceVersion":"1.0","name":"gui","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Markers.yy","order":21,"resourceVersion":"1.0","name":"Markers","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Powerups.yy","order":22,"resourceVersion":"1.0","name":"Powerups","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Objects/sfx.yy","order":17,"resourceVersion":"1.0","name":"sfx","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
