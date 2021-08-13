@@ -7,6 +7,5 @@ with(other){
 		instance_destroy();
 	}
 	global.star_fuel = min(global.star_fuel + other.refuel_amount, 1000);
-	
-	target.pscore += 50
+	if(instance_exists(target)) target.pscore += 50
 }

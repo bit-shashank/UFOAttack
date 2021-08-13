@@ -14,13 +14,12 @@ near_star_speed = 0;
 active_powerup=noone;
 powerup_duration=3;
 view=0;
+
 var spawner=instance_create_layer(x,y,"Instances",obj_ass_spawner);
 spawner.target= id;
- 
 
 // thruster sound
-audio_play_sound(sfx_hum, 1, 1);
-
+//audio_play_sound(sfx_hum, 1, 1);
 
 // particle emitter 
 emmiter_trail = part_emitter_create(global.P_System);

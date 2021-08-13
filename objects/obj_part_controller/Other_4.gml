@@ -14,7 +14,7 @@ part_type_life(global.part_fire_trail1, 5, 10);
 
 // Fire trail 2
 part_type_shape(global.part_fire_trail2, pt_shape_flare);
-part_type_size(global.part_fire_trail2, 0.2, 0.2, 0.2,1);
+part_type_size(global.part_fire_trail2, 0.2, 0.2, 0.05,1);
 part_type_color2(global.part_fire_trail2,c_orange, c_red);
 part_type_alpha3(global.part_fire_trail2, 0.8, 1, 0);
 part_type_speed(global.part_fire_trail2, 0.1, 1, -0.10, 0);

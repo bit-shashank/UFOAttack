@@ -31,6 +31,7 @@
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":2,},
     {"id":{"name":"obj_gui_menu","path":"objects/obj_gui_menu/obj_gui_menu.yy",},"order":1,},
     {"id":{"name":"sfx_sun_crit113","path":"sounds/sfx_sun_crit113/sfx_sun_crit113.yy",},"order":13,},
+    {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},"order":17,},
     {"id":{"name":"create_button","path":"scripts/create_button/create_button.yy",},"order":1,},
     {"id":{"name":"spr_power_marker","path":"sprites/spr_power_marker/spr_power_marker.yy",},"order":2,},
     {"id":{"name":"spr_ass","path":"sprites/spr_ass/spr_ass.yy",},"order":5,},

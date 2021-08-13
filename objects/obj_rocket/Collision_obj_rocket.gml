@@ -7,7 +7,7 @@ var shake_radius=150;
 var explosion_x=x;
 var explosion_y=y;
 
-with(obj_player){
+with(target){
 	dis=point_distance(x,y,explosion_x,explosion_y);
 	if (dis<shake_radius){
 		shake_inst=instance_create_layer(x,y,"Instances",obj_shake);
@@ -15,6 +15,6 @@ with(obj_player){
 		shake_inst.shake_time=0.5;
 	}
 	pscore += 10;
-	
-	//if (target != other.target) pscore += 90;
+	srcInst=instance_create_layer(x,y,"Instances",obj_score);
+	srcInst.scr=10;
 }
