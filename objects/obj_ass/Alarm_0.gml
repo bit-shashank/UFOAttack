@@ -14,5 +14,5 @@ for (var i = 0; i < 3; i += 1){
 	rocket.image_angle=image_angle+angles[i];
 	rocket.target=target;
 }
-
+rot_speed = base_rot_speed;
 alarm[0] = (room_speed * spawn_time); 

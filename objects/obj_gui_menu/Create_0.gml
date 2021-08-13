@@ -1,9 +1,10 @@
 /// @description game time controller
 // You can write your code in this editor
 
+global.vol_sfx = 1;
+global.vol_bgm = 1;
 
 button = 0;
-
 
 var _width = 300;
 var _height = 100;

@@ -1,6 +1,6 @@
 /// @description 
 // You can write your code in this editor
-
+audio_play_sound(sfx_powerup_pickup, 1, 0);
 active_powerup=other.type;
 switch(other.type){
 	case POWERUPS.speed:
@@ -9,6 +9,7 @@ switch(other.type){
 		break;
 			
 	case POWERUPS.health:
+		life += 1;
 		break;	
 	
 	case POWERUPS.invisible:
