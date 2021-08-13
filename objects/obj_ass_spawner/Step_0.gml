@@ -3,12 +3,11 @@
 //Create Random Ass 
 
 curr_ass=instance_number(obj_ass);
-if(instance_exists(target)){ 
-	if(curr_ass<max_ass){
-		with(obj_player){
+
+if(curr_ass<max_ass){
+	with(obj_player){
 			var instAss=instance_create_layer(random_range(x-2000,x+2000),random_range(y-2000,y+2000),"Instances",obj_ass);
-	 		instAss.target=other.target;
 			other.curr_ass+=1;
-		}
 	}
-}                             
+}
+                            

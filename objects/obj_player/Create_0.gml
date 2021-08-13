@@ -16,7 +16,6 @@ powerup_duration=3;
 view=0;
 
 var spawner=instance_create_layer(x,y,"Instances",obj_ass_spawner);
-spawner.target= id;
 
 // thruster sound
 //audio_play_sound(sfx_hum, 1, 1);
