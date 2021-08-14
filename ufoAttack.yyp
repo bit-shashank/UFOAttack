@@ -21,6 +21,7 @@
     {"id":{"name":"fnt_bahnschrift_24","path":"fonts/fnt_bahnschrift_24/fnt_bahnschrift_24.yy",},"order":2,},
     {"id":{"name":"change_room","path":"scripts/change_room/change_room.yy",},"order":2,},
     {"id":{"name":"obj_part_test","path":"objects/obj_part_test/obj_part_test.yy",},"order":0,},
+    {"id":{"name":"spr_health_dark","path":"sprites/spr_health_dark/spr_health_dark.yy",},"order":9,},
     {"id":{"name":"get_hover","path":"scripts/get_hover/get_hover.yy",},"order":0,},
     {"id":{"name":"sfx_missile_hit2","path":"sounds/sfx_missile_hit2/sfx_missile_hit2.yy",},"order":10,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":2,},

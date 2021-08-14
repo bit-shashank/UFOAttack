@@ -13,7 +13,7 @@ switch(other.type){
 		break;
 			
 	case POWERUPS.health:
-		life = min (life +1, 4);
+		life = min (life +1, 9);
 		break;	
 	
 	case POWERUPS.shield:

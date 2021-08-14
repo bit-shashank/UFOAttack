@@ -1,6 +1,4 @@
-function on_click() {
-	show_debug_message("Button clicked: " + text);
-}
+
 
 function resume_game() {
 	global.is_paused = false;
@@ -15,9 +13,7 @@ function restart_game(){
 	room_restart()
 }
 
-function goto_options() {
-	show_debug_message("Button clicked: " + text);
-}
+
 
 function start_game_1p() {
 	global.num_players = 1;

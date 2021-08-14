@@ -5,6 +5,12 @@ if (instance_exists(star))
 	ratio = star.current_fuel_ratio;
 else ratio = 0
 
+var f = draw_get_font();		
+draw_set_font(fnt_bahnschrift_18);
+draw_set_color(c_white);
+draw_set_halign(fa_center);
+
+var d = global.num_players == 2 ? 4 : 2 ;
 /////////////////// DEBUGGING
 if(instance_exists(player1)){
 draw_text_transformed_color(heart_x + 40, heart_y + 20 , "diff " +  string(global.difficulty),
@@ -19,14 +25,33 @@ draw_text_transformed_color(heart_x + 40, heart_y + 60 , "time "+  string(global
 draw_text_transformed_color(heart_x + 40, heart_y + 80 , "score "+  string(player1.pscore) ,
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-draw_text_transformed_color(heart_x + 40, heart_y + 100 , "ASS IN SIGHT:    " ,
-			1, 1, 0, c_white, c_white, c_white, c_white, 1);
-
-with(obj_ass){
-	if instance_exists(self)
-		draw_text_transformed_color(other.heart_x + 150, other.heart_y + 100 , string(in_view(x, y, 500))  ,
-			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 }
+
+/////////////////// PLAYER DEATH
+
+if(!instance_exists(player1)){
+text = @"
+Connection with operator 1 has been Lost! 
+Press Esc to restart
+"
+
+
+draw_text(w_width/d - 1 , w_height/2 - 180, text);
+
+
+}
+
+if (!instance_exists(player2) && global.num_players == 2){
+	
+text = @"
+Connection with operator 2 has been Lost! 
+Press Esc to restart
+"
+
+
+draw_text(w_width - w_width/4 - 1 , w_height/2 - 180, text);
+
+
 
 }
 
@@ -34,14 +59,20 @@ with(obj_ass){
 
 //  player 1
 if(instance_exists(player1)){
-	var _spr = other.health_sprites[player1.life];
-draw_sprite_ext(_spr, 0, heart_x, heart_y, 2, 2, 0, c_white, 1);
+	//var _spr = other.health_sprites[player1.life];
+draw_text_transformed_color(w_width/d , w_height - 57 - 30 , string(player1.life),
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+			
+ draw_sprite_ext(spr_health_dark, 0, w_width/d - 37, w_height - 75 - 30, 1, 1, 0, c_white, 1);
 }
 
 // player 2
 if (instance_exists(player2)){
-	var _spr = other.health_sprites[player2.life];
-draw_sprite_ext(_spr, 0, w_width - heart_x, heart_y, 1.5, 1.5, 0, c_white, 1);
+
+	draw_text_transformed_color(w_width * 0.75 , w_height - 57 - 30 , string(player2.life),
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+			
+	draw_sprite_ext(spr_health_dark, 0, w_width * 0.75 - 37, w_height - 75 - 30, 1, 1, 0, c_white, 1);
 }
 
 
@@ -62,3 +93,10 @@ draw_sprite_part_ext(spr_bar_border_white, 0, 0, 0, 108, 12, window_get_width()/
 // flipped
 draw_sprite_part_ext(spr_bar_border_white, 0, 0, 0, 108, 12, window_get_width()/2 + 1,  fuelbar_y,
 			-11, 1, c_white, 1);
+
+
+
+// reset font
+draw_set_halign(fa_left);
+draw_set_color(c_white);
+draw_set_font(f);

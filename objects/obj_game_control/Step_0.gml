@@ -5,6 +5,7 @@ global.time += 1;
 global.difficulty += global.diff_scale;
 global.diff_scale += (0.001 * global.diff_scale)
 
+
 if(keyboard_check_pressed(vk_escape) ){
     global.is_paused = !global.is_paused;
 	
@@ -48,5 +49,5 @@ if(instance_exists(player2)){
 }
 if(instance_number(obj_player)==0 and ! global.is_paused){
 	saveScore();
-	goto_menu();
+	
 }

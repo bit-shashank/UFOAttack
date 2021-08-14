@@ -24,3 +24,5 @@ heart_y = fuelbar_y + 40;
 player1= instance_find(obj_player,0);
 player2= instance_find(obj_player,1);
 
+
+
