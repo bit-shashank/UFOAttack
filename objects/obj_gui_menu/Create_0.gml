@@ -8,11 +8,15 @@ readHighScore();
 
 button = 0;
 
+var cam = view_camera[0];
+vw= camera_get_view_width(cam);
+vh= camera_get_view_height(cam);
+
 var _width = 300;
 var _height = 100;
 
-var room_h =  display_get_height();
-var room_w =  display_get_width();
+room_h =  display_get_height();
+room_w =  display_get_width();
 
 
 buttons[0] = create_button(room_w/2 - _width/2, room_h/2 - _height/2, _width,
