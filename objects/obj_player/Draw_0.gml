@@ -9,7 +9,10 @@ if(active_powerup==POWERUPS.shield){
 }
 
 if(last_hit != invincible_time){
-	draw_sprite_ext(spr_player_1_dark_hit, -1, x, y, 1, 1, image_angle, c_silver, 1);
+	if (sprite_index != spr_player_1_dark_hit)
+		draw_sprite_ext(spr_player_1_dark_hit, -1, x, y, 1, 1, image_angle, c_silver, 1);
+	else 
+		draw_sprite_ext(spr_player_1_dark, -1, x, y, 1, 1, image_angle, c_silver, 1);
 }
 
 

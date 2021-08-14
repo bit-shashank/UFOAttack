@@ -15,6 +15,7 @@ active_powerup=noone;
 powerup_duration=3;
 view=0;
 
+
 // thruster sound
 
 // particle emitter 

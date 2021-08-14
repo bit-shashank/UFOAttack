@@ -23,11 +23,11 @@ room_h =  display_get_height();
 room_w =  display_get_width();
 
 
-buttons[0] = create_button(room_w/2 - _width/2, room_h/2 - _height/2, _width,
+buttons[0] = create_button(room_w/2 - _width/2, room_h * .5 , _width,
 								_height, "Single Player", start_game_1p); 
 buttons[0].selected = true;
 
-buttons[1] = create_button(room_w/2 - _width/2, room_h/2 + _height/2 + 40, _width,
+buttons[1] = create_button(room_w/2 - _width/2, room_h * .53 + _height/2 + 40, _width,
 								_height, "Two Player", start_game_2p);
 								
 buttons[2] = create_button(room_w/2 - _width/2, room_h/2 + (_height * 2) + 40 , _width,

@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_missile_dark",
+    "path": "sprites/spr_missile_dark/spr_missile_dark.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
