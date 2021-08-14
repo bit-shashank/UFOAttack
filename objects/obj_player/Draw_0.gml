@@ -4,7 +4,7 @@
 draw_self();
 
 
-if(active_powerup and active_powerup==POWERUPS.shield){
+if(active_powerup==POWERUPS.shield){
 	draw_sprite(spr_glow,0,x,y);
 }
 

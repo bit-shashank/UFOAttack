@@ -6,7 +6,7 @@ pscore = 0;
 invincible_time = 20;
 last_hit = invincible_time;
 
-max_speed= 15;
+max_speed= 17;
 rot_speed= 3;
 near_star = 0;
 near_star_speed = 0;
@@ -16,7 +16,6 @@ powerup_duration=3;
 view=0;
 
 // thruster sound
-//audio_play_sound(sfx_hum, 1, 1);
 
 // particle emitter 
 emmiter_trail = part_emitter_create(global.P_System);

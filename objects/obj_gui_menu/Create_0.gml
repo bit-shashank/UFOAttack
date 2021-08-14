@@ -1,9 +1,13 @@
 /// @description game time controller
 // You can write your code in this editor
+gml_pragma ("PNGCrush");
 
 global.vol_sfx = 1;
 global.vol_bgm = 1;
 
+if(!audio_is_playing(bgm_infected_vibes))
+	audio_play_sound(bgm_infected_vibes, 10, 1);
+	
 readHighScore();
 
 button = 0;

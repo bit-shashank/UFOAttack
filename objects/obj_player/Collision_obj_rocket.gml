@@ -9,4 +9,5 @@ if (other.target != self) // savage
 	pscore += 300
 
 // call hit event
-event_user(0);
+if (!active_powerup==POWERUPS.shield)
+	event_user(0);

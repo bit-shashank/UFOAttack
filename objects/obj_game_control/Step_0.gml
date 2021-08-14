@@ -3,7 +3,7 @@
 
 global.time += 1;
 global.difficulty += global.diff_scale;
-global.diff_scale = 1 + (0.0001 * global.difficulty)
+global.diff_scale += (0.001 * global.diff_scale)
 
 if(keyboard_check_pressed(vk_escape) ){
     global.is_paused = !global.is_paused;
@@ -20,7 +20,6 @@ if(global.is_paused){
     ui_enabled = false;
 	instance_activate_all();
 	event_user(1);
-	//audio_play_sound(sfx_propulsion1, 1, 1);
 }
 
 if (ui_enabled){

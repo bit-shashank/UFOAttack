@@ -1,6 +1,6 @@
 {
-  "compression": 0,
-  "volume": 1.0,
+  "compression": 1,
+  "volume": 0.17,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_missile_hit1.wav",
-  "duration": 1.895442,
+  "soundFile": "bgm_infected_vibes.ogg",
+  "duration": 91.16735,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sfx_missile_hit1",
+  "name": "bgm_infected_vibes",
   "tags": [],
   "resourceType": "GMSound",
 }

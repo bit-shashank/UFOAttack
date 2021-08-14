@@ -7,7 +7,7 @@ flicker = random_range(-0.5, 0.5);
 draw_sprite_stretched(spr_glow, 0, x, y, flicker, flicker )
 
  // todo: add viewport check
-if (instance_exists(target) && instance_exists(self)){
+if (instance_exists(target) && instance_exists(self) && in_view(x, y, 500)){
 	var marker_rad = 100;
 	var dir = -point_direction(target.x, target.y, x,y);
 	var px = marker_rad * cos(degtorad(dir));
