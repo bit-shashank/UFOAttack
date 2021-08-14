@@ -60,14 +60,25 @@ draw_text(w_width - w_width/4 - 1 , w_height/2 - 180, text);
 //  player 1
 if(instance_exists(player1)){
 	//var _spr = other.health_sprites[player1.life];
+
+// score
+
+draw_text_transformed_color(w_width/d , 57 + 30 , string(player1.pscore),
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+
+
+// health
 draw_text_transformed_color(w_width/d , w_height - 57 - 30 , string(player1.life),
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
-			
+
  draw_sprite_ext(spr_health_dark, 0, w_width/d - 37, w_height - 75 - 30, 1, 1, 0, c_white, 1);
 }
 
 // player 2
 if (instance_exists(player2)){
+	
+	draw_text_transformed_color(w_width * 0.75 , 57 + 30 , string(player2.pscore),
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
 	draw_text_transformed_color(w_width * 0.75 , w_height - 57 - 30 , string(player2.life),
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
