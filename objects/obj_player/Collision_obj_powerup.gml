@@ -1,6 +1,6 @@
 /// @description 
 // You can write your code in this editor
-audio_play_sound(sfx_sun_crit113, 1, 0);
+audio_play_sound(sfx_powerup, 1, 0);
 
 if(active_powerup){
 	event_user(1);

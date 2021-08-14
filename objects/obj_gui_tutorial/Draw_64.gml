@@ -5,8 +5,9 @@ var _height = 50;
 
 draw_sprite_ext(ui_title, 0,vw/2 - 1 , vh/2 - 300 , 1, 1, 0, c_white, 1);
 
-create_button(view_wport[0]/2 - _width/2, view_hport[0] - (_height + 40) ,
+var _b = create_button(view_wport[0]/2 - _width/2, view_hport[0] - (_height + 40) ,
 			_width, _height, "Main Menu", goto_menu);
+_b.bt_draw = true;
 
 var f = draw_get_font();		
 draw_set_font(fnt_bahnschrift_24);

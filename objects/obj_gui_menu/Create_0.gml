@@ -39,7 +39,7 @@ buttons[1].spr_ind_2 = bt_p2_hover;
 buttons[1].orig_spr_ind = bt_p2_unhover;
 
 
-buttons[2] = create_button(room_w * ((vw/2 - 250)/vw - .01), room_h * .633, 522,
+buttons[2] = create_button(room_w * ((vw/2 - 250)/vw - .01), room_h * .633 + 20, 522,
 								40, "", goto_tutorial);
 
 
