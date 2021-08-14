@@ -48,7 +48,7 @@ part_type_speed(global.part_boost_trail, 0.2, 0.5, 0, 0);
 part_type_blend(global.part_boost_trail, true);
 part_type_life(global.part_boost_trail, 5, 5);
 part_type_orientation(global.part_boost_trail, 0, 0, 0, 0, 0)
-part_type_sprite(global.part_boost_trail, spr_player, false, false, false) // important
+part_type_sprite(global.part_boost_trail, spr_player_1_dark, false, false, false) // important
 
 
 // Blue Double Trail 
