@@ -3,7 +3,7 @@
 draw_set_color(merge_color(c_ltgray, c_white, hover));
 
 // Draw rounded rectangle
-draw_roundrect(x, y, x + width, y + height, 0);
+//draw_roundrect(x, y, x + width, y + height, 0);
 
 // Draw text
 draw_set_color(c_black);

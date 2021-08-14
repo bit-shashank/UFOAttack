@@ -10,3 +10,9 @@ y = lerp(y, ystart - (_hover) * 8, 0.1);
 if ((_click || clicked) && script >= 0) {
 	script_execute(script);
 }
+
+if _hover && spr_ind_2 != -1{
+	sprite_index = spr_ind_2;
+}
+else
+	sprite_index = orig_spr_ind;

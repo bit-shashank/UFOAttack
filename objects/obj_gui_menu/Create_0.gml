@@ -22,13 +22,27 @@ var _height = 100;
 room_h =  display_get_height();
 room_w =  display_get_width();
 
+//spr_ind_2 = -1;
+//orig_spr_ind = sprite_index;
 
-buttons[0] = create_button(room_w/2 - _width/2, room_h * .5 , _width,
-								_height, "Single Player", start_game_1p); 
+buttons[0] = create_button(room_w * ((vw/2 - 250)/vw - .01) , room_h * .32 , 250,
+								250, "", start_game_1p); 
 buttons[0].selected = true;
+buttons[0].spr_ind_2 = bt_p1_hover;
+buttons[0].orig_spr_ind = bt_p1_unhover;
 
-buttons[1] = create_button(room_w/2 - _width/2, room_h * .53 + _height/2 + 40, _width,
-								_height, "Two Player", start_game_2p);
-								
-buttons[2] = create_button(room_w/2 - _width/2, room_h/2 + (_height * 2) + 40 , _width,
-								_height, "How to Play", goto_tutorial);
+buttons[1] = create_button(room_w * .51, room_h * .32, 250,
+								250, "", start_game_2p);
+
+
+buttons[1].spr_ind_2 = bt_p2_hover;
+buttons[1].orig_spr_ind = bt_p2_unhover;
+
+
+buttons[2] = create_button(room_w * ((vw/2 - 250)/vw - .01), room_h * .633, 522,
+								40, "", goto_tutorial);
+
+
+buttons[2].spr_ind_2 = bt_tut_hover;
+buttons[2].orig_spr_ind = bt_tut_unhover;
+
