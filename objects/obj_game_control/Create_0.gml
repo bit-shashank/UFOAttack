@@ -18,6 +18,10 @@ player1.right_key=ord("D");
 player1.view=0;
 
 player2=noone;
+
+w_width = window_get_width();
+w_height = window_get_height();
+
 if(global.num_players==2){
 	player2=instance_create_layer(2000-20,20,"Instances",obj_player);
 	player2.left_key=vk_left;

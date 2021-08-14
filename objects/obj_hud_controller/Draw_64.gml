@@ -25,6 +25,9 @@ draw_text_transformed_color(heart_x + 40, heart_y + 60 , "time "+  string(global
 draw_text_transformed_color(heart_x + 40, heart_y + 80 , "score "+  string(player1.pscore) ,
 			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
+draw_text_transformed_color(heart_x + 40, heart_y + 110 , "max_ass    "+  string(obj_ass_spawner.max_ass) ,
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+
 }
 
 /////////////////// PLAYER DEATH

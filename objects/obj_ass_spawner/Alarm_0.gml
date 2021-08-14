@@ -10,6 +10,12 @@ if(curr_ass<max_ass){
 			other.curr_ass+=1;
 	}
 }
-      
+if (instance_exists(p)){
+if (p.pscore >= score_requirement){
+	score_requirement += 1000;
+	max_ass += 1;
+
+}
+}
 
 alarm[0] = room_speed * spawn_freq;

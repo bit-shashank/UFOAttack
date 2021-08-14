@@ -45,7 +45,6 @@
     {"id":{"name":"obj_hud_controller","path":"objects/obj_hud_controller/obj_hud_controller.yy",},"order":2,},
     {"id":{"name":"save_score","path":"scripts/save_score/save_score.yy",},"order":4,},
     {"id":{"name":"spr_bar_border_white","path":"sprites/spr_bar_border_white/spr_bar_border_white.yy",},"order":3,},
-    {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},"order":20,},
     {"id":{"name":"obj_ass_spawner","path":"objects/obj_ass_spawner/obj_ass_spawner.yy",},"order":6,},
     {"id":{"name":"obj_powerup_spawner","path":"objects/obj_powerup_spawner/obj_powerup_spawner.yy",},"order":13,},
     {"id":{"name":"health_1bars_dark","path":"sprites/health_1bars_dark/health_1bars_dark.yy",},"order":5,},
