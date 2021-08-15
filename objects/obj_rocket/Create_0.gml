@@ -16,9 +16,9 @@ variance_color = choose(c_aqua, c_gray, c_yellow, c_orange, c_white);
 
 image_blend = c_white; // variance_color;
 
-turnRadius = 4 ;//+ variance_turn - (variance_speed/3 + variance_accel/2);
-maxSpeed = 20 ;//+ variance_speed - (variance_turn/3 + variance_accel/2);
-acceleration = 2 ;//+ variance_accel - (variance_speed/3 + variance_turn/2);
+turnRadius = 4 + variance_turn - (variance_speed/3 + variance_accel/2);
+maxSpeed = 20 + variance_speed - (variance_turn/3 + variance_accel/2);
+acceleration = 2 + variance_accel - (variance_speed/3 + variance_turn/2);
 
 speed=1;
 alarm[0]=room_speed*0.5;

@@ -12,23 +12,29 @@ draw_set_halign(fa_center);
 
 var d = global.num_players == 2 ? 4 : 2 ;
 /////////////////// DEBUGGING
-//if(instance_exists(player1)){
-//draw_text_transformed_color(heart_x + 40, heart_y + 20 , "diff " +  string(global.difficulty),
-//			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+if(instance_exists(player1)){
+draw_text_transformed_color(heart_x + 40, heart_y + 20 , "diff " +  string(global.difficulty),
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-//draw_text_transformed_color(heart_x + 40, heart_y + 40 , "d_scale " +  string(global.diff_scale),
-//			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+draw_text_transformed_color(heart_x + 40, heart_y + 40 , "d_scale " +  string(global.diff_scale),
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 			
-//draw_text_transformed_color(heart_x + 40, heart_y + 60 , "time "+  string(global.time) + " = " + string(global.time/60) +"s",
-//			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+draw_text_transformed_color(heart_x + 40, heart_y + 60 , "time "+  string(global.time) + " = " + string(global.time/60) +"s",
+		1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-//draw_text_transformed_color(heart_x + 40, heart_y + 80 , "score "+  string(player1.pscore) ,
-//			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+draw_text_transformed_color(heart_x + 40, heart_y + 80 , "score "+  string(player1.pscore) ,
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-//draw_text_transformed_color(heart_x + 40, heart_y + 110 , "max_ass    "+  string(obj_ass_spawner.max_ass) ,
-//			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+draw_text_transformed_color(heart_x + 40, heart_y + 100 , "max_ass    "+  string(obj_ass_spawner.max_ass) ,
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
 
-//}
+draw_text_transformed_color(heart_x + 40, heart_y + 120 , "missiles active    "+  string(instance_number(obj_rocket)) ,
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+
+draw_text_transformed_color(heart_x + 40, heart_y + 140 , "d_scale 2  "+  string(global.diff_scale * 0.1) ,
+			1, 1, 0, c_white, c_white, c_white, c_white, 1);
+
+}
 
 /////////////////// PLAYER DEATH
 

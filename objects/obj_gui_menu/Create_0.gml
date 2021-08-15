@@ -42,7 +42,7 @@ buttons[1].orig_spr_ind = bt_p2_unhover;
 buttons[2] = create_button(room_w * ((vw/2 - 250)/vw - .01), room_h * .633 + 20, 522,
 								40, "", goto_tutorial);
 
-
+// 0.02 * vw + button_player_1.y + 250)
 buttons[2].spr_ind_2 = bt_tut_hover;
 buttons[2].orig_spr_ind = bt_tut_unhover;
 
