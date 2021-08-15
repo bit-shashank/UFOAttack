@@ -11,3 +11,9 @@ with(other){
 	if(instance_exists(target)) target.pscore += 50
 }
 }
+
+else { 
+	with(other){
+	if (is_activated) instance_destroy();
+}
+}
