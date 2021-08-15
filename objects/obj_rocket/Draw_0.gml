@@ -12,5 +12,5 @@ if (instance_exists(target) && instance_exists(self) && in_view(x, y, 500)){
 	var dir = -point_direction(target.x, target.y, x,y);
 	var px = marker_rad * cos(degtorad(dir));
 	var py = marker_rad * sin(degtorad(dir));
-	draw_sprite_ext(spr_marker_missiles_dark, 0,target.x + px, target.y + py, 1,1, -dir - 90, c_white, 1);
+	draw_sprite_ext(maker2_missiles_dark, 0,target.x + px, target.y + py, 1,1, -dir - 90, c_white, 1);
 }

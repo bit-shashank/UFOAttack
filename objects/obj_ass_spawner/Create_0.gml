@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-p = instance_find(obj_player, 0);
+
 
 max_ass= 3;
 curr_ass=0;

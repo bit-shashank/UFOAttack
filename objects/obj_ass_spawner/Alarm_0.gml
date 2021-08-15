@@ -4,15 +4,22 @@
 curr_ass=instance_number(obj_ass);
 
 if(curr_ass<max_ass){
-	with(obj_player){
-			var instAss=instance_create_layer(random_range(x-2000,x+2000)
-				,random_range(y-2000,y+2000),"Instances",obj_ass);
-			other.curr_ass+=1;
+	with(obj_star){
+			rx = random_range(x-2500,x-2500);
+			ry = random_range(y-2500,y+2500);
+			if (!in_view(rx, ry, 500)){
+				//var instAss=
+				instance_create_layer(
+				rx, ry ,"Instances",obj_ass);
+				other.curr_ass+=1;
+			}
+			else alarm[0] = room_speed * other.spawn_freq/2;
 	}
 }
-if (instance_exists(p)){
+if (instance_exists(obj_player)){
+	p = instance_find(obj_player, 0);
 if (p.pscore >= score_requirement){
-	score_requirement += 1000;
+	score_requirement += 500;
 	max_ass += 1;
 
 }

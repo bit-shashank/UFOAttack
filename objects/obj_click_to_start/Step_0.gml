@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-scr=10;
-time_to_destory=90;
-max_time = time_to_destory;
+
+if (mouse_check_button_pressed(mb_left))
+	goto_menu();
+

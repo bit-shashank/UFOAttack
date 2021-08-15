@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-scr=10;
-time_to_destory=90;
-max_time = time_to_destory;
+draw_self();
+//draw_circle_color(x, y, 4000, c_navy, c_lime, 0);
