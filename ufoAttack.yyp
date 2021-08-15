@@ -39,6 +39,7 @@
     {"id":{"name":"obj_ass","path":"objects/obj_ass/obj_ass.yy",},"order":5,},
     {"id":{"name":"spr_powerup_shield_dark","path":"sprites/spr_powerup_shield_dark/spr_powerup_shield_dark.yy",},"order":6,},
     {"id":{"name":"obj_star_silhouette","path":"objects/obj_star_silhouette/obj_star_silhouette.yy",},"order":9,},
+    {"id":{"name":"sfx_into_the_sun","path":"sounds/sfx_into_the_sun/sfx_into_the_sun.yy",},"order":18,},
     {"id":{"name":"spr_marker_missiles_dark","path":"sprites/spr_marker_missiles_dark/spr_marker_missiles_dark.yy",},"order":5,},
     {"id":{"name":"health_3bars_dark","path":"sprites/health_3bars_dark/health_3bars_dark.yy",},"order":7,},
     {"id":{"name":"spr_player_1_dark_hit","path":"sprites/spr_player_1_dark_hit/spr_player_1_dark_hit.yy",},"order":33,},
