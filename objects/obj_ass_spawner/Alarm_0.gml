@@ -5,8 +5,8 @@ curr_ass=instance_number(obj_ass);
 
 if(curr_ass<max_ass){
 	with(obj_star){
-			rx = random_range(x-2500,x-2500);
-			ry = random_range(y-2500,y+2500);
+			rx = random_range(x-4000,x+4000);
+			ry = random_range(y-4000,y+4000);
 			if (!in_view(rx, ry, 500)){
 				//var instAss=
 				instance_create_layer(

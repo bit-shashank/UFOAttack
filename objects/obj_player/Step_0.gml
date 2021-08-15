@@ -35,6 +35,7 @@ part_emitter_region(global.P_System, emmiter_trail,
                     x , x , y , y , ps_shape_rectangle, 
                     ps_distr_linear);
 
+part_type_sprite(global.part_boost_trail, spr_player_1_dark, 0, 0, 0);
 part_emitter_burst(global .P_System, emmiter_trail, global.part_fire_trail1, 1);
 
 

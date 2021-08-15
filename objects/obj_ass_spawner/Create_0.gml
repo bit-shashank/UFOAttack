@@ -5,7 +5,7 @@
 max_ass= 3;
 curr_ass=0;
 
-score_requirement = 1000;
+score_requirement = 700;
 
 spawn_freq = 1; // time in seconds
 

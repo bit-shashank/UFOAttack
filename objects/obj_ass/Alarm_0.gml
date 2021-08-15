@@ -7,8 +7,8 @@ angles=[30,150,270]
 
 for (var i = 0; i < 3; i += 1){
 	//Rockets need a offset from centre so they dont go brrr
-	lx=x+ 10*sin(degtorad(angles[i]));
-	ly=y+10*cos(degtorad(angles[i]));
+	lx=x+ 10*sin(degtorad(angles[i%3]));
+	ly=y+10*cos(degtorad(angles[i%3]) );
 	var rocket=instance_create_layer(lx,ly,"Instances",obj_rocket);
 	rocket.direction=image_angle+angles[i];
 	rocket.image_angle=image_angle+angles[i];

@@ -74,6 +74,7 @@
     {"id":{"name":"spr_marker_ass_dark","path":"sprites/spr_marker_ass_dark/spr_marker_ass_dark.yy",},"order":4,},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":4,},
     {"id":{"name":"obj_gui_button","path":"objects/obj_gui_button/obj_gui_button.yy",},"order":0,},
+    {"id":{"name":"obj_star_silhouette2","path":"objects/obj_star_silhouette2/obj_star_silhouette2.yy",},"order":19,},
     {"id":{"name":"ui_title","path":"sprites/ui_title/ui_title.yy",},"order":7,},
     {"id":{"name":"maker2_missiles_dark","path":"sprites/maker2_missiles_dark/maker2_missiles_dark.yy",},"order":8,},
     {"id":{"name":"sfx_missile_feed2","path":"sounds/sfx_missile_feed2/sfx_missile_feed2.yy",},"order":15,},
@@ -97,8 +98,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_Start","path":"rooms/rm_Start/rm_Start.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_test_particles","path":"rooms/rm_test_particles/rm_test_particles.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_studio","path":"rooms/rm_studio/rm_studio.yy",},},
     {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},

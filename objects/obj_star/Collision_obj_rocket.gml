@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if in_view(other.x, other.y, 150){
+if in_view(other.x, other.y, 300){
 	audio_play_sound(sfx_missile_feed, 1, 0);
 
 with(other){

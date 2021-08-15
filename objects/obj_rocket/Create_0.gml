@@ -7,9 +7,9 @@ is_near_star = 0;
 variance_points = 3;
 
 variance_speed = random_range(-variance_points, variance_points);
-variance_points -= variance_speed
-variance_turn = random_range(variance_points/2, variance_points/2);
-variance_points -= variance_turn
+variance_points += -variance_speed
+variance_turn = random_range(-variance_points/2, variance_points/2);
+variance_points += -variance_turn
 variance_accel = random_range(-variance_points, variance_points)
 
 variance_color = choose(c_aqua, c_gray, c_yellow, c_orange, c_white);
