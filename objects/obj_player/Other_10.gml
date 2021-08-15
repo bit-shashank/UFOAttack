@@ -3,6 +3,10 @@
 // make invuln
 if (last_hit == invincible_time){
 	
+	if(active_powerup==POWERUPS.shield){
+		active_powerup=noone;
+		exit;
+	}
 	 life -= 1;
 	
 	if (life <= 0){
